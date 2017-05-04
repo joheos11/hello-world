@@ -6,10 +6,10 @@ Mi nombre es Jorge y soy de Madrid (España), mi mayor afición es la informáti
 
 En cuanto a mis proyectos, estoy muy interesado en dos programas que me encantan que son telegram y kodi. De alguna manera he unido estas dos maravillas formando un grupo de telegram para hablar, en español, de todo lo relacionado con Kodi. El canal se llama @kodispain. Dejo tambien la dirección por si alguien llega aqui y esta interesado en unirse:
 
-https://telegram.me/kodispain
+http://t.me/kodispain
 
 También estoy estudiando la rama de los bots en telegram que me parece un añadido muy interesante y con mucho potencial. Veremos si soy capaz de hacer algo interesante con esto.
 
-También tengo una web que uso como servidor para mis proyectos y espero también sacarle algo mas de provecho. Hace algún tiempo me vino muy bien para aprender a crear una web, aprender algo de html, css y php, sobre todo. Por supuesto que todo el mundo es bienvenido a:
+También tengo una web que uso como servidor para mis proyectos y espero también sacarle algo más de provecho. Hace algún tiempo me vino muy bien para aprender a crear una web, aprender algo de html, css y php, sobre todo. Por supuesto que todo el mundo es bienvenido a:
 
 http://konectas.es
