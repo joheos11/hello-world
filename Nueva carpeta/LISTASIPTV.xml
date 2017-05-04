@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-  <title>m3uliste01</title>
+<title>m3uliste01</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -19,7 +19,7 @@
 
 
 <item>
-  <title>m3uliste02</title>
+<title>m3uliste02</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
