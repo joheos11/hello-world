@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>m3uliste01</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>      [COLOR lightgreen][makelist.param2][/COLOR]    ( [makelist.param1] )  </title>
-    <link>NA</link>
-    <externallink>[makelist.param1][DE]</externallink>
-]]></listrepeat>
-<expres>>(http:\/\/(.*?)\/.*?)&lt;</expres>
-<page>http://www.m3uliste.pw/</page>
-<referer>https://www.tvaddons.ag/forums/shanis-addon-repository/24190-release-livestreamspro-156-print.html</referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-<item>
-<title>m3uliste02</title>
+<title>m3uliste</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -30,7 +12,7 @@
 ]]></listrepeat>
 <expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
 <page>http://www.m3uliste.pw/</page>
-<referer>https://www.tvaddons.ag/forums/shanis-addon-repository/24190-release-livestreamspro-156-print.html</referer>
+<referer></referer>
 <cookieJar></cookieJar>
 </regex>
 </item>
