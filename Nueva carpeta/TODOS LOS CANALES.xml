@@ -10,13 +10,13 @@
 
 	<item>
 		<title>MOVISTAR ACCION</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=accion&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/maccion</referer>
 	</item>
 	
 	<item>
 		<title>MOVISTAR CINE Ñ</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=dcinen&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=dcinen&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/dcinees</referer>
 	</item>
 	
@@ -28,43 +28,43 @@
 
 	<item>
 		<title>MOVISTAR DCINE</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=dicneesp&width=588&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=dicneesp&width=588&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/dcinen</referer>	
 	</item>
 	
 	<item>
 		<title>MOVISTAR ESTRENOS</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=mestrenos&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/estrenos</referer>	
+		<sportsdevil>http://livesports.pw/embedn.php?file=mestrenos&width=650&height=397&autostart=true</sportsdevil>
+		<referer>http://telefivegb.com/canales/pelis/estrenos/</referer>	
 	</item>
 
 	<item>
 		<title>MOVISTAR SERIES</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/m_series</referer>	
 	</item>
 
 	<item>
 		<title>MOVISTAR SERIES XTRA</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=seriesxtra&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=seriesxtra&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/m_series_xtra</referer>	
 	</item>
 
 	<item>
 		<title>MOVISTAR XTRA*</title>
-		<sportsdevil></sportsdevil>
+		<sportsdevil>http://livesports.pw/embed.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/mxtra</referer>	
 	</item>
 
 	<item>
 		<title>AMC</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=amcesptele&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=amcesptele&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/amc</referer>	
 	</item>
 
 	<item>
 		<title>AXN</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=axnesp&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=axnesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/axn</referer>
 	</item>
 
@@ -76,25 +76,25 @@
 
 	<item>
 		<title>A&amp;E</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=aandeesp&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=aandeesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/aande</referer>
 	</item>
 
 	<item>
 		<title>CALLE 13</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/calle13</referer>
 	</item>
 
 	<item>
 		<title>COMEDY CENTRAL</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=comedycentral&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=comedycentral&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://verplusonline.com/canales/ParamountComedy</referer>
 	</item>
 	
 	<item>
 		<title>COSMO</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=cosmos&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://tumarcador.xyz/verdirectotv/15</sportsdevil>
 		<referer>http://verplusonline.com/canales/cosmos</referer>
 	</item>
 
@@ -106,7 +106,7 @@
 
 	<item>
 		<title>FOX</title>
-		<sportsdevil></sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=foxespana&width=650&height=397</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/fox</referer>
 	</item>
 
@@ -118,13 +118,13 @@
 
 	<item>
 		<title>HOLLYWOOD</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
 	</item>
 
 	<item>
 		<title>MTV</title>
-		<sportsdevil></sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=mtvesp&width=650&height=397</sportsdevil>
 		<referer>http://telefivegb.com/canales/MUSICA/mtv</referer>
 	</item>
 		
@@ -142,7 +142,7 @@
 
 	<item>
 		<title>SYFY</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=sysfesp&width=650&height=397&autoplay=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=sysfesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/sysf</referer>
 	</item>
 
@@ -154,7 +154,7 @@
 
 	<item>
 		<title>TNT</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=tntesp&width=650&height=397&autoplay=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=tntesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/tnt</referer>
 	</item>
 
@@ -172,7 +172,7 @@
 
 	<item>
 		<title>CANAL COCINA</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=cocinaesp&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/cocina</referer>
 	</item>
 
@@ -190,7 +190,7 @@
 	
 	<item>
 		<title>CAZA Y PESCA</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/cazaypesca</referer>
 	</item>
 	
@@ -213,33 +213,32 @@
 	
 	<item>
 		<title>DISCOVERY CHANNEL</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=discoverychannel&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=discoverychannel&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/discoverychannel</referer>
 	</item>
 	
 	<item>
 		<title>HISTORIA</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=historiaesp&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=historiaesp&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/historia</referer>
 	</item>
 	
 	<item>
 		<title>NATIONAL GEOGRAPHIC</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/natgeoembed.php</referer>
 	</item>
 	
 	<item>
 		<title>NAT GEO WILD</title>
-		<sportsdevil>http://wwww.dinostream.pw/embed.php?c=105942&width=650&height=400&autostart=true</sportsdevil>                                        
+		<sportsdevil>http://vertelevisor.com/live/nationalwild.php</sportsdevil>                                        
 		<referer>http://cinestrenostv.tv/canales/documentales/natgeowill.php</referer>
 				
 	</item>
-
 	
 	<item>
 		<title>ODISEA</title>
-		<sportsdevil>http://www.playerhd1.pw/embed.php?c=105143&width=650&height=400&autostart=true</sportsdevil>                                        
+		<sportsdevil>http://www.playerhd1.pw/embed.php?c=105143&width=650&height=400&autostart=true</sportsdevil>                                     
 		<referer>http://sport.gblackstreaming.com/channel/074_odisea/1.html</referer>
 	</item>
 	
