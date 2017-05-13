@@ -385,8 +385,7 @@
 	
 	<item>
 		<title>TELECINCO</title>
-		<sportsdevil>http://livesports.pw/embed.php?file=telecinco&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/tdt/telecinco</referer>
+		<link>http://telecinco-channel5.hls.adaptive.level3.net/telecinco/channel5/esmediaset11/bitrate_1.m3u8</link>
 	</item>
 	
 	<item>
