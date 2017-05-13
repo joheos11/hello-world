@@ -364,7 +364,7 @@
 	
 	<item>
 		<title>LA 1</title>
-		<link>http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_0400_av-p.m3u8?sd=10&rebase=on</link>
+		<link>http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_0400_av-p.m3u8</link>
 	</item>
 	
 	<item>
@@ -454,7 +454,7 @@
 	
 	<item>
 		<title>INTERECONOMIA</title>
-		<link></link>
+		<link>http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8</link>
 	</item>
 	
 	<item>
@@ -519,11 +519,6 @@
 	</item>	
 
 	<item>
-		<title>SUPER 3</title>
-		<link></link>
-	</item>	
-
-	<item>
 		<title>TELEMADRID</title>
 		<link>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8</link>
 	</item>	
@@ -535,13 +530,13 @@
 	
 		<item>
 		<title>CASTILLA LA MANCHA</title>
-		<link></link>
-	</item>	
+		<link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link>
+	</item>
 	
 	<item>
-		<title>LA 8</title>
-		<link></link>
-	</item>
+		<title>CASTILLA Y LEON</title>
+		<link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
+	</item>	
 	
 	<item>
 		<title>8 TV</title>
@@ -560,7 +555,7 @@
 
 	<item>
 		<title>ANDALUCIA TV</title>
-		<link>http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>
+		<link>http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8</link>	      
 	</item>
 
 	<item>
@@ -570,7 +565,7 @@
 
 	<item>
 		<title>ETB</title>
-		<link></link>
+		<link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
 	</item>
 	
 	<item>
@@ -590,7 +585,7 @@
 
 	<item>
 		<title>ARAGON TV</title>
-		<link></link>
+		<link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
 	</item>	
 
 	<item>
