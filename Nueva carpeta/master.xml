@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
- <channels_info>
+<channels_info>
   <title>[COLOR red]KodiSpainTV[/COLOR]</title>
   <genre>TV</genre>
   <description>Lista de canales de Televisión de España</description>
@@ -8,22 +8,19 @@
   <fanart>***fanart.jpg***</fanart>
   <date>18.05.2017</date>
   <credits>http://t.me/kodispain (joheos11)</credits>
- </channels_info>
+</channels_info>
  
- <channels>
-
-  <channel>
+<channels>
+ <channel>
    <name>[COLOR red]                                       Actualizado:[/COLOR][COLOR yellow] 18-Mayo-2017[/COLOR]</name>
    <thumbnail>***logo360x360.png***</thumbnail>
    <fanart>***fanart.jpg***</fanart>
    <link>http://ignoreme</link>
    <externallink>http://pastebin.com</externallink>
   </channel>
-
  </channels>
  
  <channels>
-
   <channel>
    <name>[COLOR red]• [/COLOR][COLOR white]CANALES DE ESPAÑA[/COLOR]</name>
    <thumbnail>***logo360x360.png***</thumbnail>
@@ -31,11 +28,9 @@
    <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TODOS%20LOS%20CANALES.xml</externallink>
   </channel>
-
  </channels>
 
- <channels>
-
+<channels>
  <channel>
    <name>[COLOR red]• [/COLOR][COLOR white]CANALES MUSICALES[/COLOR]</name>
    <thumbnail>***logo360x360.png***</thumbnail>
@@ -43,11 +38,19 @@
    <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/MUSICALES.xml</externallink>
  </channel>
-
 </channels>
 
 <channels>
+ <channel>
+   <name>[COLOR red]• [/COLOR][COLOR white]LISTAS WEBS (SPORTSDEVIL)[/COLOR]</name>
+   <thumbnail>***logo360x360.png***</thumbnail>
+   <fanart>***fanart.jpg***</fanart>
+   <link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/WEBS.xml</externallink>
+ </channel>
+</channels>
 
+<channels>
  <channel>
    <name>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV[/COLOR]</name>
    <thumbnail>***logo360x360.png***</thumbnail>
@@ -55,5 +58,4 @@
    <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/LISTASIPTV.xml</externallink>
  </channel>
-
 </channels>
