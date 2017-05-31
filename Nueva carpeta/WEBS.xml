@@ -9,11 +9,11 @@
 <title>[makelist.param2]</title>
 <sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
 <referer></referer>
-<thumbnail>[makelist.param3]</thumbnail>
+<thumbnail>http://cinestrenostv.tv[makelist.param3]</thumbnail>
 ]]></listrepeat>
 <expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
 <page>http://cinestrenostv.tv/</page>
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
-</item> 
+</item>
