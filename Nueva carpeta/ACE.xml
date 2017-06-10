@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Acesoplisting.in</title>
+<title>acesoplisting.in</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
