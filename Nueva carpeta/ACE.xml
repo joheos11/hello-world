@@ -7,7 +7,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR red][makelist.param3] [/COLOR]  [COLOR yellow] [makelist.param2][/COLOR][COLOR gold]- [makelist.param4][/COLOR] [B] [COLOR red][makelist.param5][/B] [/COLOR]</title>
-<link>plugin://program.plexus/?url=[makelist.param5]&amp;mode=1&amp;name=Acesoplisting.in</link>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Acesoplisting.in</link>
 ]]></listrepeat>
 <expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
 <page>http://www.acesoplisting.in/</page>
