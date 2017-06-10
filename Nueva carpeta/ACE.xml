@@ -15,22 +15,3 @@
 </regex>
 <thumbnail>http://www.acesoplisting.in/images/AceListingLogo.png</thumbnail>
 </item>
-
-
-
-<item>
-<title>acesoplisting.in</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[COLOR red][makelist.param3] [/COLOR]  [COLOR yellow][makelist.param2][/COLOR]  [COLOR gold]- [makelist.param4][/COLOR][COLOR red][makelist.param5][/COLOR]</title>
-<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Adryanlist</link>
-<thumbnail>http://adryanlist.org/adryan/img/acestream.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
-<page>http://www.acesoplisting.in/</page>
-<agent>Mozilla</agent>
-</regex>
-<thumbnail>http://www.acesoplisting.in/images/AceListingLogo.png</thumbnail>
-</item>	
