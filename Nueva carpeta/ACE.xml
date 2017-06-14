@@ -1,17 +1,584 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>acesoplisting.in</title>
+<title>AGENDA ArenaVision.ru</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR red][makelist.param3][/COLOR] [COLOR yellow][makelist.param2][/COLOR] [COLOR red][makelist.param4][/COLOR]</title>
-<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=Acesoplisting.in</link>
+<item>
+<title>[COLOR skyblue][makelist.param1][/COLOR] | [COLOR yellow][makelist.param2][/COLOR] | [COLOR red][makelist.param3][/COLOR] | Evento:  [COLOR lime][makelist.param4][/COLOR] |  [makelist.param5] | Canal: - [makelist.param6]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Catoal [makelist.param4]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.ru/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.ru</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+</item>	
 ]]></listrepeat>
-<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
-<page>http://www.acesoplisting.in/</page>
-<agent>Mozilla</agent>
+<expres><![CDATA[74px.*>(.*?)<[\w\W\s]{0,60}174px.*>(.*?)CET[\w\W\s]{0,60}196px.*>(.*?)<[\w\W\s]{0,60}283px.*>(.*?)<[\w\W\s]{0,80}837.*>\n(.*?)<[\w\W\s]{0,60}209px.*>([0-9]+)]]></expres>
+<page>http://arenavision.ru/schedule</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>http://www.acesoplisting.in/images/AceListingLogo.png</thumbnail>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+</item>
+
+
+
+
+<tem>
+<title>[COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ** [COLOR yellow]AGENDA[/COLOR] **</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR skyblue][makelist.param1][/COLOR] | [COLOR yellow][makelist.param2][/COLOR] | [COLOR red][makelist.param3][/COLOR] | Canal:  [COLOR lime][makelist.param4][/COLOR]</title>
+    <link>plugin://program.plexus/?url=$doregex[getace]&amp;mode=1&amp;name=[makelist.param1]</link>
+    <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[auto-style3".+?>(.*?)<.*\s.*\s.*>(.*?)<.*\s.*\s.*>(.*?)<[\w\W\s]*?317px">(\d+)]]></expres>
+<page>http://arenavision.ru/schedule</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getace</name>
+<expres>[",'](acestream[^"']+)</expres>
+<page>http://arenavision.ru/av[makelist.param4]</page>
+<referer>http://arenavision.ru/schedule</referer>
+<cookieJar></cookieJar>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+</item>
+
+<tem>
+<title>AGENDA Solo Información</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[makelist.param1] - [makelist.param2] - [makelist.param5] - [makelist.param6]</title>
+<link>[makelist.param1]</link>
+			<regex>
+			<name></name> 
+			<expres></expres>
+			<page>http://www.arenavision.ru/AV</page>
+			<referer>http://www.arenavision.ru</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail></thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*.)-</expres>
+<page>http://arenavision.ru/schedule</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av01</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 1</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av02</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 2</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av3</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 3</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av4</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 4</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av5</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 5</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av6</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 6</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av7</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 7</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av8</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 8</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av9</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 9</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av10</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 10</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av11</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 11</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av12</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 12</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av13</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 13</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av14</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 14</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av15</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 15</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av16</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 16</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av17</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 17</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av18</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 18</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av19</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 19</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av20</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 20</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av21</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 21</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av22</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 22</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av23</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 23</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av24</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 24</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av25</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 25</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av26</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 26</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av27</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 27</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av28</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 28</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av29</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 29</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av30</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 30</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av31</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 31</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av32</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 32</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av33</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 33</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av34</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 34</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av35</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 35</title>
+</item>
+
+
+<item>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.ru/av36</page>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<title>ArenaVision 36</title>
 </item>
