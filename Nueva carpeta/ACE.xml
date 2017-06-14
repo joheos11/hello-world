@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>AGENDA ArenaVision.ru</title>
+<title>[COLOR red]AGENDA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -29,10 +29,8 @@
 </item>
 
 
-
-
-<tem>
-<title>[COLOR blue]C[/COLOR][COLOR yellow]T[/COLOR][COLOR red]A[/COLOR] ** [COLOR yellow]AGENDA[/COLOR] **</title>
+<!-------<item>
+<title>AGENDA</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -52,9 +50,9 @@
 <referer>http://arenavision.ru/schedule</referer>
 <cookieJar></cookieJar>
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
-</item>
+</item>----->
 
-<tem>
+<!-------<item>
 <title>AGENDA Solo Información</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -78,7 +76,7 @@
 <Agent>Mozilla</Agent>
 </regex>
 <thumbnail></thumbnail>
-</item>
+</item>----->
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
