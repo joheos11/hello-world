@@ -70,20 +70,12 @@
  </channel>
 </channels>
 
-<channels>
-<channel>
-<name>[COLOR red]• [/COLOR][COLOR white]TRAILERS[/COLOR]</name>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param2]</title>
-                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&order=default</link>
-                        <thumbnail>https://pbs.twimg.com/profile_images/552092989485355008/5iuVo5m9.png</thumbnail>
-         ]]></listrepeat>
-            <expres>\s?.href="\/playlist\?list=(.*?)">(.*?)<\/</expres>
-            <page>https://www.youtube.com/user/TrailersInSpanish/playlists</page>
-            <cookieJar></cookieJar>
-</regex>
-</channel>
-</channels>
+ <channels>
+  <channel>
+   <name>[COLOR red]• [/COLOR][COLOR white]TRAILERS[/COLOR]</name>
+   <thumbnail>***logo360x360.png***</thumbnail>
+   <fanart>***fanart.jpg***</fanart>
+   <link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TRAILERS.xml</externallink>
+  </channel>
+ </channels>
