@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Arenavision.in</title>
+<title>[COLOR red]1. Agenda Arenavision.in[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -29,7 +29,7 @@
 
 
 <item>
-<title>Arenavision.ru</title>
+<title>[COLOR red]2. Agenda Arenavision.ru[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -56,7 +56,7 @@
 
 
 <item>
-<title>Arenavision.us</title>
+<title>[COLOR red]3. Agenda Arenavision.us[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -83,7 +83,7 @@
 
 
 <item>
-<title>Arenavision2017.ga</title>
+<title>[COLOR red]4. Agenda Arenavision2017.ga[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -111,7 +111,7 @@
 
 
 <item>
-<title>Arenavision2017.tk</title>
+<title>[COLOR red]5. Agenda Arenavision2017.tk[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -136,6 +136,7 @@
 </regex>
 <thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
 </item>
+
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
