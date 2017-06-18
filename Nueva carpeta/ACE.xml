@@ -1,82 +1,141 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red]AGENDA[/COLOR]</title>
+<title>Arenavision.in</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item>
-<title>[COLOR skyblue][makelist.param1][/COLOR] | [COLOR yellow][makelist.param2][/COLOR] | [COLOR red][makelist.param3][/COLOR] | Evento:  [COLOR lime][makelist.param4][/COLOR] |  [makelist.param5] | Canal: - [makelist.param6]  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Catoal [makelist.param4]</link>
+<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR teal][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.ru/AV[makelist.param6]</page>
-			<referer>http://www.arenavision.ru</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[74px.*>(.*?)<[\w\W\s]{0,60}174px.*>(.*?)CET[\w\W\s]{0,60}196px.*>(.*?)<[\w\W\s]{0,60}283px.*>(.*?)<[\w\W\s]{0,80}837.*>\n(.*?)<[\w\W\s]{0,60}209px.*>([0-9]+)]]></expres>
-<page>http://arenavision.ru/schedule</page>
-<Agent>Mozilla</Agent>
-<referer>http://www.arenavision.ru</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
-</item>
-
-
-<!-------<item>
-<title>AGENDA</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[COLOR skyblue][makelist.param1][/COLOR] | [COLOR yellow][makelist.param2][/COLOR] | [COLOR red][makelist.param3][/COLOR] | Canal:  [COLOR lime][makelist.param4][/COLOR]</title>
-    <link>plugin://program.plexus/?url=$doregex[getace]&amp;mode=1&amp;name=[makelist.param1]</link>
-    <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[auto-style3".+?>(.*?)<.*\s.*\s.*>(.*?)<.*\s.*\s.*>(.*?)<[\w\W\s]*?317px">(\d+)]]></expres>
-<page>http://arenavision.ru/schedule</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getace</name>
-<expres>[",'](acestream[^"']+)</expres>
-<page>http://arenavision.ru/av[makelist.param4]</page>
-<referer>http://arenavision.ru/schedule</referer>
-<cookieJar></cookieJar>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
-</item>----->
-
-<!-------<item>
-<title>AGENDA Solo Información</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item>
-<title>[makelist.param1] - [makelist.param2] - [makelist.param5] - [makelist.param6]</title>
-<link>[makelist.param1]</link>
-			<regex>
-			<name></name> 
-			<expres></expres>
-			<page>http://www.arenavision.ru/AV</page>
-			<referer>http://www.arenavision.ru</referer>
+			<page>http://arenavision.in/av[makelist.param6]</page>
+			<referer>http://arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
 			<thumbnail></thumbnail>
 </item>	
 ]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*.)-</expres>
-<page>http://arenavision.ru/schedule</page>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.in/guide</page>
 <Agent>Mozilla</Agent>
+<referer>http://arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail></thumbnail>
-</item>----->
+<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Arenavision.ru</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR teal][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.ru/av[makelist.param6]</page>
+			<referer>http://arenavision.ru</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail></thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.ru/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Arenavision.us</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR teal][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.us/av[makelist.param6]</page>
+			<referer>http://arenavision.us</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail></thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision.us/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.us</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Arenavision2017.ga</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[makelist.param1]-[makelist.param2]-[makelist.param3]-[makelist.param4]-[makelist.param5] AV[makelist.param6][makelist.param7]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.ga/av[makelist.param6]</page>
+			<referer>http://arenavision2017.ga</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail></thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision2017.ga/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.ga</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Arenavision2017.tk</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [makelist.param1] - [makelist.param2] - [makelist.param3] - [makelist.param4] - [makelist.param5] - AV[makelist.param6][makelist.param7]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision2017.tk/av[makelist.param6]</page>
+			<referer>http://arenavision2017.tk</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail></thumbnail>
+</item>	
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
+<page>http://arenavision2017.tk/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+</item>
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
