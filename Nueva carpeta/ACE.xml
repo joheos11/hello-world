@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red]1. Agenda Arenavision.in[/COLOR]</title>
+<title>[B]1.[/B] [COLOR tomato]Agenda Arenavision.in[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR teal][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title>
+<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR tomato][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 			<regex>
 			<name>hash</name> 
@@ -29,12 +29,12 @@
 
 
 <item>
-<title>[COLOR red]2. Agenda Arenavision.ru[/COLOR]</title>
+<title>[B]2.[/B] [COLOR tomato]Agenda Arenavision.ru[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR teal][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
+<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR tomato][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -56,12 +56,12 @@
 
 
 <item>
-<title>[COLOR red]3. Agenda Arenavision.us[/COLOR]</title>
+<title>[B]3.[/B] [COLOR tomato]Agenda Arenavision.us[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR teal][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
+<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR tomato][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -83,12 +83,12 @@
 
 
 <item>
-<title>[COLOR red]4. Agenda Arenavision2017.ga[/COLOR]</title>
+<title>[B]4.[/B] [COLOR tomato]Agenda Arenavision2017.ga[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[makelist.param1]-[makelist.param2]-[makelist.param3]-[makelist.param4]-[makelist.param5] AV[makelist.param6][makelist.param7]</title>
+<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR tomato][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 			<regex>
 			<name>hash</name> 
@@ -111,12 +111,12 @@
 
 
 <item>
-<title>[COLOR red]5. Agenda Arenavision2017.tk[/COLOR]</title>
+<title>5. [COLOR tomato]Agenda Arenavision2017.tk[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title> [makelist.param1] - [makelist.param2] - [makelist.param3] - [makelist.param4] - [makelist.param5] - AV[makelist.param6][makelist.param7]</title>
+<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR tomato][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 			<regex>
 			<name>hash</name> 
