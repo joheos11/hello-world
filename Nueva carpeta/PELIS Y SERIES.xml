@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<SetViewMode>55</SetViewMode>
-
 <items>
-<view>movies</view>
   
 <item>
 <title>PELICULAS</title>
@@ -15,6 +12,13 @@
 <title>SERIES</title>
 <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/SERIES.xml</externallink>
 <thumbnail>http://i.imgur.com/AWU5h6C.jpg</thumbnail>
+</item>
+  
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR aquamarine][B]ESTRENOS ADRYANLIST [/COLOR][COLOR aquamarine]PLUS[/COLOR] + [/B]</title>
+<link>http://ignora.me</link>
+<externallink>http://adryanlist.org/adryan/peliculas_favoritas.xml</externallink>
+<thumbnail>http://adryanlist.org/adryan/img/adryflix.jpg</thumbnail>
 </item>
   
 </items>
