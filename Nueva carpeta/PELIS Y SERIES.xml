@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
+<channels>
+<channel>
 <title>PELICULAS</title>
 <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/PELICULAS.xml</externallink>
 <thumbnail>http://i.imgur.com/AWU5h6C.jpg</thumbnail>
-</item>
+</channel>
+</channels>
 
-<item>
+<channels>
+<channel>
 <title>SERIES</title>
 <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/SERIES.xml</externallink>
 <thumbnail>http://i.imgur.com/AWU5h6C.jpg</thumbnail>
-</item>
+</channel>
+</channels>
