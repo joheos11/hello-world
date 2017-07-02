@@ -11,7 +11,7 @@
         <link>$doregex[makelist]</link>
         ]]></listrepeat>
 <expres>peliculas:"(.*?)" name:"(.*?)";</expres>
-<page>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/index.xml</page>
+<page>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/index_pelis.xml</page>
 <cookieJar></cookieJar>
 </regex>
 
