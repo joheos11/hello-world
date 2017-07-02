@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<title>PELICULAS</title>
+<name>PELICULAS</name>
 <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/PELICULAS.xml</externallink>
 <thumbnail>http://i.imgur.com/AWU5h6C.jpg</thumbnail>
 </channel>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<title>SERIES</title>
+<name>SERIES</name>
 <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/SERIES.xml</externallink>
 <thumbnail>http://i.imgur.com/AWU5h6C.jpg</thumbnail>
 </channel>
