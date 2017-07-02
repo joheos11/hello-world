@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B]1.[/B] [COLOR tomato]Agenda Arenavision.in[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR tomato][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.in/av[makelist.param6]</page>
-			<referer>http://arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail></thumbnail>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
-<page>http://arenavision.in/guide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[B]2.[/B] [COLOR tomato]Agenda Arenavision.ru[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR tomato][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.ru/av[makelist.param6]</page>
-			<referer>http://arenavision.ru</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail></thumbnail>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
-<page>http://arenavision.ru/guide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision.ru</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[B]3.[/B] [COLOR tomato]Agenda Arenavision.us[/COLOR]</title>
+<title>[COLOR tomato]Agenda Arenavision.us[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -80,63 +26,6 @@
 <thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>[B]4.[/B] [COLOR tomato]Agenda Arenavision2017.ga[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR tomato][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.ga/av[makelist.param6]</page>
-			<referer>http://arenavision2017.ga</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail></thumbnail>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
-<page>http://arenavision2017.ga/guide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision2017.ga</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>5. [COLOR tomato]Agenda Arenavision2017.tk[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR white][makelist.param1] - [makelist.param2][/COLOR] [COLOR tomato][makelist.param3]: [makelist.param4][/COLOR] [B][makelist.param5][/B] [COLOR red][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.tk/av[makelist.param6]</page>
-			<referer>http://arenavision2017.tk</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail></thumbnail>
-</item>	
-]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
-<page>http://arenavision2017.tk/guide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision2017.tk</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
-</item>
-
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -149,7 +38,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 1</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -164,7 +52,6 @@
 <title>ArenaVision 2</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -177,7 +64,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 3</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -192,7 +78,6 @@
 <title>ArenaVision 4</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -205,7 +90,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 5</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -220,7 +104,6 @@
 <title>ArenaVision 6</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -233,7 +116,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 7</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -248,7 +130,6 @@
 <title>ArenaVision 8</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -261,7 +142,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 9</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -276,7 +156,6 @@
 <title>ArenaVision 10</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -289,7 +168,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 11</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -304,7 +182,6 @@
 <title>ArenaVision 12</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -317,7 +194,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 13</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -332,7 +208,6 @@
 <title>ArenaVision 14</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -345,7 +220,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 15</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -360,7 +234,6 @@
 <title>ArenaVision 16</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -373,7 +246,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 17</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -388,7 +260,6 @@
 <title>ArenaVision 18</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -401,7 +272,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 19</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -416,7 +286,6 @@
 <title>ArenaVision 20</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -429,7 +298,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 21</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -444,7 +312,6 @@
 <title>ArenaVision 22</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -457,7 +324,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 23</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -472,7 +338,6 @@
 <title>ArenaVision 24</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -485,7 +350,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 25</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -500,7 +364,6 @@
 <title>ArenaVision 26</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -513,7 +376,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 27</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -528,7 +390,6 @@
 <title>ArenaVision 28</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -541,7 +402,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 29</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -556,7 +416,6 @@
 <title>ArenaVision 30</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -569,7 +428,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 31</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -584,7 +442,6 @@
 <title>ArenaVision 32</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -597,7 +454,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 33</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -612,7 +468,6 @@
 <title>ArenaVision 34</title>
 </item>
 
-
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
 <regex>
@@ -625,7 +480,6 @@
 <thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 35</title>
 </item>
-
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
