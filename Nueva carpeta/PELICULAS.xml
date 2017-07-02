@@ -44,7 +44,6 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx[makelist2.param1]/list,1,15</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
