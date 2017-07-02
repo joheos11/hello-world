@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<items>
   
 <item>
 <title>PELICULAS</title>
@@ -20,5 +18,3 @@
 <externallink>http://adryanlist.org/adryan/peliculas_favoritas.xml</externallink>
 <thumbnail>http://adryanlist.org/adryan/img/adryflix.jpg</thumbnail>
 </item>
-  
-</items>
