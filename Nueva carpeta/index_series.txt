@@ -1,0 +1,28 @@
+SERIES DISKOKOSMIKO:
+
+enlace:"http://diskokosmiko.mx/chinchetas/24-todas-temporadas-castellano-39252" titulo:"24"; 
+enlace:"http://diskokosmiko.mx/jonmiberrio/aida-serie-completa-temporadas-1-10-14094" titulo:"Aida"; 
+enlace:"http://diskokosmiko.mx/chicho306/alcatraz-23249" titulo:"Alcatraz"; 
+enlace:"http://diskokosmiko.mx/maria-santos-lopez/black-sails-1-temporada-castellano-18174" titulo:"Black Sails"; 
+enlace:"http://diskokosmiko.mx/lokario1/breaking-bad-14550" titulo:"Breaking Bad"; 
+enlace:"http://diskokosmiko.mx/trivianita/buffy-cazavampiros-el-rockero-41510" titulo:"Buffy Cazavampiros";
+enlace:"http://diskokosmiko.mx/FLAYSINA/castle-8-temporadas-serie-completa-29594" titulo:"Castle"; 
+enlace:"http://diskokosmiko.mx/titotv/csi-seasons-1-12-complete-2668" titulo:"CSI Miami";
+enlace:"http://diskokosmiko.mx/trivianita/el-barco-tmp-1-2-3-el-rockero-42539" titulo:"El Barco";
+enlace:"http://diskokosmiko.mx/sergio22111989/el-internado-laguna-negra-27232" titulo:"El Internado";
+enlace:"http://diskokosmiko.mx/KarladC/el-ministerio-del-tiempo-fantasia-26196" titulo:"El Ministerio del Tiempo";
+enlace:"http://diskokosmiko.mx/Lily_Guez/embrujadas-castellano-completa-42201" titulo:"Embrujadas";
+enlace:"http://diskokosmiko.mx/FLAYSINA/entre-fantasmas-serie-5-temp-completas-38010" titulo:"Entre Fantasmas";
+enlace:"http://diskokosmiko.mx/lokario1/fisica-o-quimica-temp-1234567-14494" titulo:"Fisica o Quimica";
+enlace:"http://diskokosmiko.mx/titotv/flashforward-serie-completa-22-capitulos-spanish-2675" titulo:"FlashForward";
+enlace:"http://diskokosmiko.mx/KarladC/gotham-espanolespana-25610" titulo:"Gotham";
+enlace:"http://diskokosmiko.mx/Kenzo14/homeland-22748" titulo:"Homeland";
+enlace:"http://diskokosmiko.mx/sergio22111989/los-hombres-de-paco-serie-completa-castellano-27197" titulo:"Los Hombres de Paco";
+enlace:"http://diskokosmiko.mx/lokario1/melrose-place-temporadas-1234567-completa-11635" titulo:"Melrose Place";
+enlace:"http://diskokosmiko.mx/titotv/mentes-criminales-7-tem2005-2012spanish-2673" titulo:"Mentes Criminales";
+enlace:"http://diskokosmiko.mx/chronos/narcos-42041" titulo:"Narcos";
+enlace:"http://diskokosmiko.mx/chinchetas/perdidos-todas-temp-castellano-33141" titulo:"Perdidos (Lost)";
+enlace:"http://diskokosmiko.mx/lokario1/prision-break-temporadas-1234-23760" titulo:"Prison Break";
+enlace:"http://diskokosmiko.mx/lokario1/90210-beverly-hills-sensacion-de-vivir-completa-11976" titulo:"Sensacion de vivir (Beverly Hills 90210)";
+enlace:"http://diskokosmiko.mx/lokario1/sexo-en-nueva-york-temporadas-12345-y-6-12175" titulo:"Sexo en Nueva York";
+enlace:"http://diskokosmiko.mx/lokario1/un-paso-adelante-14630" titulo:"Un Paso Adelante";
