@@ -10,7 +10,7 @@
         <title>[index.param2]</title>
         <link>$doregex[makelist]</link>
         ]]></listrepeat>
-<expres><link>"(.*?)" <title>"(.*?)"</expres>
+	<expres><link>[\s\S]*?</link></expres>
 <page>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/index_pelis.xml</page>
 <cookieJar></cookieJar>
 </regex>
