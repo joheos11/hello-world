@@ -11,7 +11,7 @@
         <link>$doregex[makelist]</link>
         ]]></listrepeat>
 <expres>Series:"(.*?)" name:"(.*?)";</expres>
-<page>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/index_series.xml</page>
+<page>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/index_series.txt</page>
 <cookieJar></cookieJar>
 </regex>
 
