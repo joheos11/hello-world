@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-peliculas:"http://diskokosmiko.mx/xadracasino/peliculas-2016-49932" name:"AÑO: 2016";
-peliculas:"http://diskokosmiko.mx/naredo/accion-20343" name:"GENERO: ACCION";
-peliculas:"http://diskokosmiko.mx/naredo/animacion-20219" name:"GENERO: ANIMACION";
-peliculas:"http://diskokosmiko.mx/naredo/artes-marciales-21356" name:"GENERO: ARTES MARCIALES";
-peliculas:"http://diskokosmiko.mx/naredo/cine-clasico-y-epico-73079" name:"GENERO: CLASICO Y EPICO";
-peliculas:"http://diskokosmiko.mx/gemma-valencia/peliculas-disney-en-castellano-32479" name:"GENERO: DISNEY";
-peliculas:"http://diskokosmiko.mx/darioman/peliculas-espanol-43260" name:"GENERO: VARIADAS";
-peliculas:"http://diskokosmiko.mx/naredo/alfredo-landa-peliculas-64668" name:"ACTOR: ALFREDO LANDA";
-peliculas:"http://diskokosmiko.mx/naredo/asterix-coleccion-peliculas-animadas-20495" name:"ACTOR: ASTERIX COLECCION PELICULAS ANIMADAS";
-peliculas:"http://diskokosmiko.mx/naredo/asterix-gerard-depardieu-20573" name:"ACTOR: ASTERIX - Gerard Depardieu";
-peliculas:"http://diskokosmiko.mx/naredo/cantinflas-peliculas-63630" name:"ACTOR: CANTINFLAS";
-peliculas:"http://diskokosmiko.mx/naredo/paco-martinez-soria-peliculas-63885" name:"ACTOR: PACO MARTINEZ SORIA";
+<title>AÑO: 2016</title>
+  <link>http://diskokosmiko.mx/xadracasino/peliculas-2016-49932</link>
+
+<title>GENERO: ACCION</title>
+  <link>http://diskokosmiko.mx/naredo/accion-20343</link>
+
+<title>GENERO: ANIMACION</title>
+  <link>http://diskokosmiko.mx/naredo/animacion-20219</link>
+
+<title>GENERO: ARTES MARCIALES</title>
+  <link>http://diskokosmiko.mx/naredo/artes-marciales-21356</link>
+
+<title>GENERO: CLASICO Y EPICO</title>
+  <link>http://diskokosmiko.mx/naredo/cine-clasico-y-epico-73079</link>
+
+<title>GENERO: DISNEY</title>
+  <link>http://diskokosmiko.mx/gemma-valencia/peliculas-disney-en-castellano-32479</link>
+
+<title>GENERO: VARIADAS</title>
+  <link>http://diskokosmiko.mx/darioman/peliculas-espanol-43260</link> <title>GENERO: VARIADAS</title>
+
+<title>ACTOR: ALFREDO LANDA</title>
+  <link>http://diskokosmiko.mx/naredo/alfredo-landa-peliculas-64668</link>
+
+<title>ACTOR: ASTERIX COLECCION PELICULAS ANIMADAS</title>
+<link>http://diskokosmiko.mx/naredo/asterix-coleccion-peliculas-animadas-20495</link>
+
+<title>ACTOR: ASTERIX - Gerard Depardieu</title>
+  <link>http://diskokosmiko.mx/naredo/asterix-gerard-depardieu-20573</link>
+
+<title>ACTOR: CANTINFLAS</title>
+  <link>http://diskokosmiko.mx/naredo/cantinflas-peliculas-63630</link>
+
+<title>ACTOR: PACO MARTINEZ SORIA</title>
+  <link>http://diskokosmiko.mx/naredo/paco-martinez-soria-peliculas-63885</link>
 
 
 
