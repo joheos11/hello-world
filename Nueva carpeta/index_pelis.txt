@@ -1,14 +1,16 @@
 PELICULAS DISKOKOSMIKO:
 
-enlace:"http://diskokosmiko.mx/xadracasino/peliculas-2016-49932" titulo:"AÑO: 2016"
-enlace:"http://diskokosmiko.mx/naredo/accion-20343" titulo:"GENERO: ACCION"
-enlace:"http://diskokosmiko.mx/naredo/animacion-20219" titulo:"GENERO: ANIMACION"
-enlace:"http://diskokosmiko.mx/naredo/artes-marciales-21356" titulo:"GENERO: ARTES MARCIALES"
-enlace:"http://diskokosmiko.mx/naredo/cine-clasico-y-epico-73079"titulo:"GENERO: CLASICO Y EPICO"
-enlace:"http://diskokosmiko.mx/gemma-valencia/peliculas-disney-en-castellano-32479" titulo:"GENERO: DISNEY"
-enlace:"http://diskokosmiko.mx/darioman/peliculas-espanol-43260" titulo:"GENERO: VARIADAS"
-enlace:"http://diskokosmiko.mx/naredo/alfredo-landa-peliculas-64668" titulo:"ACTOR: ALFREDO LANDA"
-enlace:"http://diskokosmiko.mx/naredo/asterix-coleccion-peliculas-animadas-20495" titulo:"ACTOR: ASTERIX COLECCION PELICULAS ANIMADAS"
-enlace:"http://diskokosmiko.mx/naredo/asterix-gerard-depardieu-20573" titulo:"ACTOR: ASTERIX - Gerard Depardieu"
-enlace:"http://diskokosmiko.mx/naredo/cantinflas-peliculas-63630" titulo:"ACTOR: CANTINFLAS"
-enlace:"http://diskokosmiko.mx/naredo/paco-martinez-soria-peliculas-63885" titulo:"ACTOR: PACO MARTINEZ SORIA"
+
+peliculas:"http://diskokosmiko.mx/naredo/fantastico-20056" name:"Cine Fantastico"; 
+enlace:"http://diskokosmiko.mx/xadracasino/peliculas-2016-49932" titulo:"AÑO: 2016";
+enlace:"http://diskokosmiko.mx/naredo/accion-20343" titulo:"GENERO: ACCION";
+enlace:"http://diskokosmiko.mx/naredo/animacion-20219" titulo:"GENERO: ANIMACION";
+enlace:"http://diskokosmiko.mx/naredo/artes-marciales-21356" titulo:"GENERO: ARTES MARCIALES";
+enlace:"http://diskokosmiko.mx/naredo/cine-clasico-y-epico-73079"titulo:"GENERO: CLASICO Y EPICO";
+enlace:"http://diskokosmiko.mx/gemma-valencia/peliculas-disney-en-castellano-32479" titulo:"GENERO: DISNEY";
+enlace:"http://diskokosmiko.mx/darioman/peliculas-espanol-43260" titulo:"GENERO: VARIADAS";
+enlace:"http://diskokosmiko.mx/naredo/alfredo-landa-peliculas-64668" titulo:"ACTOR: ALFREDO LANDA";
+enlace:"http://diskokosmiko.mx/naredo/asterix-coleccion-peliculas-animadas-20495" titulo:"ACTOR: ASTERIX COLECCION PELICULAS ANIMADAS";
+enlace:"http://diskokosmiko.mx/naredo/asterix-gerard-depardieu-20573" titulo:"ACTOR: ASTERIX - Gerard Depardieu";
+enlace:"http://diskokosmiko.mx/naredo/cantinflas-peliculas-63630" titulo:"ACTOR: CANTINFLAS";
+enlace:"http://diskokosmiko.mx/naredo/paco-martinez-soria-peliculas-63885" titulo:"ACTOR: PACO MARTINEZ SORIA";
