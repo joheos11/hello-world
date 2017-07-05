@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red][B]Agenda Arenavision.us[/B][/COLOR]</title>
+<title>[COLOR red][B]Agenda Arenavision[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[B][COLOR red][makelist.param1] - [makelist.param2][/COLOR] [COLOR white][makelist.param3]:[/COLOR][makelist.param4][makelist.param5][COLOR yellow]AV[makelist.param6][/COLOR][/B]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
+<item><title>[COLOR red][B][makelist.param1] - [makelist.param2][/COLOR] [COLOR white][makelist.param3]:[/COLOR][makelist.param4][makelist.param5][COLOR yellow]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
