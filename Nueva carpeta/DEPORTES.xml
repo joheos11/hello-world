@@ -6,7 +6,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR tomato][makelist.param1] - [makelist.param2][/COLOR] [COLOR white][makelist.param3]:[/COLOR] [makelist.param4] [B][makelist.param5][/B] [COLOR yellow][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
+<item><title>[COLOR tomato][makelist.param1] - [makelist.param2][/COLOR] [COLOR white][makelist.param3]:[/COLOR] [makelist.param4] [makelist.param5] [COLOR yellow][B]AV[makelist.param6][/B][/COLOR]</title><link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=[makelist.param5]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
