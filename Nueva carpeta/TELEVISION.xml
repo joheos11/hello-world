@@ -1,12 +1,12 @@
 <item>
-<title>LISTA ESTABLE (BAJA CALIDAD)</title>
+<title>[COLOR yellow]• [/COLOR][COLOR white]LISTA ESTABLE (BAJA CALIDAD)[/COLOR]</title>
 <link>http://ignora.me</link>
 <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TODOS%20LOS%20CANALES.xml</externallink>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>M3ULISTE.PW - LISTAS IPTV TEMPORALES (BUENA CALIDAD)</title>
+<title>[COLOR yellow]• [/COLOR][COLOR white]M3ULISTE.PW - LISTAS IPTV TEMPORALES (BUENA CALIDAD)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>CINESTRENOSTV.TV (BAJA CALIDAD)</title>
+<title>[COLOR yellow]• [/COLOR][COLOR white]CINESTRENOSTV.TV (BAJA CALIDAD)[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
