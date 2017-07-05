@@ -1,0 +1,41 @@
+<item>
+<title>LISTA ESTABLE (BAJA CALIDAD)</title>
+<link>http://ignora.me</link>
+<externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TODOS%20LOS%20CANALES.xml</externallink>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>M3ULISTE.PW - LISTAS IPTV TEMPORALES (BUENA CALIDAD)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>      [COLOR lightgreen][makelist.param2][/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>CINESTRENOSTV.TV (BAJA CALIDAD)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>http://cinestrenostv.tv[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
