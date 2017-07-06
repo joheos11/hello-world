@@ -1,6 +1,6 @@
 DOCUMENTALES DISKOKOSMIKO:
 
-enlace:"http://diskokosmiko.mx/sandbox/documentales-varios-24546/list,1,101" titulo:"Documentales Varios"
+enlace:"http://diskokosmiko.mx/sandbox/documentales-varios-24546" titulo:"Documentales Varios"
 enlace:"http://diskokosmiko.mx/jml/planeta-tierra-25417" titulo:"Planeta Tierra"
 
 
