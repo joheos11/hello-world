@@ -15,7 +15,7 @@
 	</item>
 	
 	<item>
-		<title>MOVISTAR CINE Ñ</title>
+		<title>MOVISTAR CINE Ñ*</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=dcinen&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/dcinees</referer>
 	</item>
@@ -51,7 +51,7 @@
 	</item>
 
 	<item>
-		<title>MOVISTAR XTRA*</title>
+		<title>MOVISTAR XTRA</title>
 		<sportsdevil>http://livesports.pw/embed.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/mxtra</referer>	
 	</item>
@@ -76,20 +76,20 @@
 
 	<item>
 		<title>A&amp;E</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=aandeesp&width=650&height=397&autostart=true</sportsdevil>
+		<sportsdevil>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/documental/aande</referer>
 	</item>
 
 	<item>
-		<title>CALLE 13</title>
+		<title>CALLE 13*</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://telefivegb.com/canales/pelis/calle13</referer>
+		<referer>http://cinestrenostv.tv/canales/nacionales/calle13.php</referer>	
 	</item>
 
 	<item>
 		<title>COMEDY CENTRAL</title>
-		<sportsdevil>http://livesports.pw/embedn.php?file=comedycentral&width=650&height=397&autostart=true</sportsdevil>
-		<referer>http://verplusonline.com/canales/ParamountComedy</referer>
+		<sportsdevil>http://tumarcador.xyz/verdirectotv/8</sportsdevil>
+		<referer>http://www.vertelevisor.com/tv/nacionales/paramount-comedy.html</referer>
 	</item>
 	
 	<item>
