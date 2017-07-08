@@ -39,7 +39,7 @@
 	</item>
 
 	<item>
-		<title>MOVISTAR SERIES</title>
+		<title>MOVISTAR SERIES*</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=mseries&width=650&height=397&autostart=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/series/m_series</referer>	
 	</item>
@@ -112,12 +112,12 @@
 
 	<item>
 		<title>FOX LIFE</title>
-		<sportsdevil></sportsdevil>
-		<referer>http://telefivegb.com/canales/series/foxlive</referer>
+		<sportsdevil>http://edge1.telesport.pw/live/foxlife/index.m3u8</sportsdevil>
+		<referer>http://cinestrenostv.tv/canales/nacionales/foxcrime.php</referer>
 	</item>
 
 	<item>
-		<title>HOLLYWOOD</title>
+		<title>HOLLYWOOD*</title>
 		<sportsdevil>http://livesports.pw/embedn.php?file=hollywesp&width=650&height=397&autoplay=true</sportsdevil>
 		<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
 	</item>
