@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Cinestrenostv.tv/</title>
+<title>Cinestrenostv.tv</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -19,7 +19,7 @@
 </item>
 
 <item>
-<title>VerLiga.net by Alegre</title>
+<title>Verliga.net by Alegre</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
