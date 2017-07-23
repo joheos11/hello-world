@@ -51,12 +51,23 @@
 </channels>
 
 <channels>
- <channel>
-   <name>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV[/COLOR]</name>
-   <thumbnail>***logo360x360.png***</thumbnail>
-   <fanart>***fanart.jpg***</fanart>
-   <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/LISTASIPTV.xml</externallink>
+<channel>
+<item>
+<title>[COLOR red]• [/COLOR][COLOR white]LISTAS IPTV (m3uliste)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>      [COLOR lightgreen][makelist.param2][/COLOR]    ( [makelist.param1] )  </title>
+<link>NA</link>
+<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
  </channel>
 </channels>
 
