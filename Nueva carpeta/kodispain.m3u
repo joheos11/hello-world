@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1,0 - Movistar TV
+#EXTINF:-1,0 - Movistar TV,
 #EXTTV:Ocio y cultura;es;CPROM;http://172.26.22.23:2001/appclient/incoming/epg/MAY_1/imSer/597.jpg
+rtp://239.0.0.77:8208
+#EXTINF:-1 tvg-id="TVE ASTRA HD 1.sp" tvg-logo="https://github.com/LinuxZoneTv/Picon_Movistar/blob/d5c686fcc41582b47ba3242a0d3b50710b0c9490/1_0_19_7863_41A_1_C00000_0_0_0.png" group-title="TDT",Create
+http://192.168.1.5:5004/auto/v133/
+#EXTINF:-1 tvg-id="I688.39818575.microsoft.com" tvg-name="Cozi" tvg-logo="Cozi.png" group-title="USA",Cozi
+http://192.168.1.5:5004/auto/v688/
+#EXTINF:-1 tvg-id="I702.28459048.microsoft.com" tvg-logo="CBS.png" group-title="USA",CBS
+http://192.168.1.5:5004/auto/v702/
+#EXTINF:-1 tvg-id="I703.195990477.microsoft.com" tvg-name="ION" tvg-logo="ION.png" group-title="USA",ION
+http://192.168.1.5:5004/auto/v703/
+#EXTINF:-1, La 1
 rtp://239.0.0.77:8208
 #EXTINF:-1,1 - La 1 HD
 #EXTTV:Ocio y cultura;es;LA1HD;http://172.26.22.23:2001/appclient/incoming/epg/MAY_1/imSer/2543.jpg
