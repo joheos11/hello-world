@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVE ASTRA HD 1.sp" tvg-logo="https://raw.githubusercontent.com/LinuxZoneTv/Picon_Movistar/d5c686fcc41582b47ba3242a0d3b50710b0c9490/1_0_19_7863_41A_1_C00000_0_0_0.png" group-title="TDT",La 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LinuxZoneTv/Picon_Movistar/d5c686fcc41582b47ba3242a0d3b50710b0c9490/1_0_19_7863_41A_1_C00000_0_0_0.png" group-title="TDT",La 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
