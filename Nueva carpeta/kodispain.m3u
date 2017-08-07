@@ -2,3 +2,36 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LinuxZoneTv/Picon_Movistar/d5c686fcc41582b47ba3242a0d3b50710b0c9490/1_0_19_7863_41A_1_C00000_0_0_0.png" group-title="TDT",La 1
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TDT",La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TDT",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1 tvg-id=”La Sexta" group-title="TDT",LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+
+#EXTINF:-1 group-title="TDT",NOVA
+http://a3live-lh.akamaihd.net/i/geonova_1@379404/master.m3u8
+
+
+#EXTINF:-1 group-title="TDT",NEOX
+http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8
+
+
+#EXTINF:-1 group-title="TDT",A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+
+#EXTINF:-1 group-title="TDT",MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+
+#EXTINF:-1 group-title="TDT",13TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+
+#EXTINF:-1 group-title="AUTONOMICAS",TPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
