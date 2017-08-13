@@ -31,11 +31,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av01</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av01</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 1</title>
 </item>
 
@@ -44,11 +44,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av02</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av02</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 2</title>
 </item>
 
@@ -57,11 +57,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av3</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av3</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 3</title>
 </item>
 
@@ -70,11 +70,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av4</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av4</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 4</title>
 </item>
 
@@ -83,11 +83,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av5</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av5</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 5</title>
 </item>
 
@@ -96,11 +96,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av6</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av6</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 6</title>
 </item>
 
@@ -109,11 +109,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av7</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av7</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 7</title>
 </item>
 
@@ -122,11 +122,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av8</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av8</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 8</title>
 </item>
 
@@ -135,11 +135,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av9</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av9</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 9</title>
 </item>
 
@@ -148,11 +148,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av10</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av10</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 10</title>
 </item>
 
@@ -161,11 +161,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av11</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av11</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 11</title>
 </item>
 
@@ -174,11 +174,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av12</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av12</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 12</title>
 </item>
 
@@ -187,11 +187,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av13</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av13</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 13</title>
 </item>
 
@@ -200,11 +200,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av14</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av14</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 14</title>
 </item>
 
@@ -213,11 +213,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av15</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av15</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 15</title>
 </item>
 
@@ -226,11 +226,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av16</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av16</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 16</title>
 </item>
 
@@ -239,11 +239,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av17</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av17</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 17</title>
 </item>
 
@@ -252,11 +252,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av18</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av18</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 18</title>
 </item>
 
@@ -265,11 +265,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av19</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av19</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 19</title>
 </item>
 
@@ -278,11 +278,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av20</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av20</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 20</title>
 </item>
 
@@ -291,11 +291,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av21</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av21</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 21</title>
 </item>
 
@@ -304,11 +304,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av22</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av22</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 22</title>
 </item>
 
@@ -317,11 +317,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av23</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av23</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 23</title>
 </item>
 
@@ -330,11 +330,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av24</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av24</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 24</title>
 </item>
 
@@ -343,11 +343,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av25</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av25</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 25</title>
 </item>
 
@@ -356,11 +356,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av26</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av26</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 26</title>
 </item>
 
@@ -369,11 +369,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av27</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av27</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 27</title>
 </item>
 
@@ -382,11 +382,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av28</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av28</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 28</title>
 </item>
 
@@ -395,11 +395,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av29</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av29</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 29</title>
 </item>
 
@@ -408,11 +408,11 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av30</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av30</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 30</title>
 </item>
 
@@ -421,10 +421,10 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.ru/av31</page>
-<referer>http://www.arenavision.ru</referer>
+<page>http://www.arenavision.us/av31</page>
+<referer>http://www.arenavision.us</referer>
 <setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail>https://arenavision.ru/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
 <title>ArenaVision 31</title>
 </item>
