@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
-<item>
-<title>IPTV KODISPAIN</title>
-<link>nolink</link>
-<externallink>https://pastebin.com/raw/Cf4c7Qnh$$LSProEncKey=kodispaintv$$</externallink>
-</item>
-
 <item>
 <title>m3uliste.pw</title>
 <link>$doregex[makelist]</link>
