@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR tomato]Agenda Arenavision[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR red][B][makelist.param1] [makelist.param2][/B][/COLOR] [makelist.param3] [COLOR white] [makelist.param4][/COLOR] [COLOR yellow][B]AV[makelist.param5][/B][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=LFP+[makelist.param4]</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://arenavision.top/[makelist.param5]</page>
+			<referer>http://arenavision.top/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
+
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH LA LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<page>http://arenavision.top/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision.top/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
+</item>
+
 <tem>
 <title>[B]1.[/B] [COLOR tomato]Agenda Arenavision.in[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -24,6 +53,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 </item>
 
 <tem>
@@ -50,6 +80,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 </item>
 
 <tem>
@@ -76,6 +107,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 </item>
 
 <tem>
@@ -103,6 +135,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 </item>
 
 <tem>
@@ -130,6 +163,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>http://i.imgur.com/q0COxQ4.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 </item>
 
 <tem>
@@ -140,14 +174,15 @@
 <listrepeat><![CDATA[
 	<title>[makelist.param1][makelist.param2]</title>
 <link>plugin://program.plexus/?mode=1&url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&name=My+acestream+channel</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.acesoplisting.in/images/AceListingLogo.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[<title>(.*?)<td class="text-right">(.*?)]]></expres>
 <page>http://www.acesoplisting.in/</page>
 <agent>Mozilla</agent>
 </regex>
-<thumbnail></thumbnail>
-</item>	
+<thumbnail>http://www.acesoplisting.in/images/AceListingLogo.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
+</item>
 
 <item>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Acestream</link>
@@ -159,6 +194,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 1</title>
 </item>
 
@@ -172,6 +208,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 2</title>
 </item>
 
@@ -185,6 +222,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 3</title>
 </item>
 
@@ -198,6 +236,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 4</title>
 </item>
 
@@ -211,6 +250,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 5</title>
 </item>
 
@@ -224,6 +264,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 6</title>
 </item>
 
@@ -237,6 +278,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 7</title>
 </item>
 
@@ -250,6 +292,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 8</title>
 </item>
 
@@ -263,6 +306,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 9</title>
 </item>
 
@@ -276,6 +320,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 10</title>
 </item>
 
@@ -289,6 +334,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 11</title>
 </item>
 
@@ -302,6 +348,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 12</title>
 </item>
 
@@ -315,6 +362,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 13</title>
 </item>
 
@@ -328,6 +376,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 14</title>
 </item>
 
@@ -341,6 +390,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 15</title>
 </item>
 
@@ -354,6 +404,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 16</title>
 </item>
 
@@ -367,6 +418,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 17</title>
 </item>
 
@@ -380,6 +432,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 18</title>
 </item>
 
@@ -393,6 +446,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 19</title>
 </item>
 
@@ -406,6 +460,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 20</title>
 </item>
 
@@ -420,6 +475,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 21</title>
 </item>
 
@@ -434,6 +490,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 22</title>
 </item>
 
@@ -448,6 +505,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 23</title>
 </item>
 
@@ -462,6 +520,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 24</title>
 </item>
 
@@ -476,6 +535,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 25</title>
 </item>
 
@@ -490,6 +550,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 26</title>
 </item>
 
@@ -504,6 +565,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 27</title>
 </item>
 
@@ -518,6 +580,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 28</title>
 </item>
 
@@ -532,6 +595,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 29</title>
 </item>
 
@@ -546,6 +610,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 30</title>
 </item>
 
@@ -560,6 +625,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 31</title>
 </item>
 
@@ -574,6 +640,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 32</title>
 </item>
 
@@ -588,6 +655,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 33</title>
 </item>
 
@@ -602,6 +670,7 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 34</title>
 </item>
 
@@ -616,5 +685,6 @@
 <setcookie>beget=begetok</setcookie>
 </regex>
 <thumbnail>https://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/NrS6W6litDY/maxresdefault.jpg</fanart>
 <title>ArenaVision 35</title>
 </item>
