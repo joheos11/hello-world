@@ -7,7 +7,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
     <title>      [COLOR lightgreen][makelist.param2][/COLOR]    ( [makelist.param1] )  </title>
-    <link>NA</link>
+    <link>nolink</link>
     <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
 <expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
@@ -15,4 +15,20 @@
 <referer></referer>
 <cookieJar></cookieJar>
 </regex>
+</item>
+
+<item>
+<title>GENERADOR DE IPTV DIARIOS</title>
+<link>nolink</link>
+<externallink>https://pastebin.com/raw/1cbn0edf</externallink>
+<thumbnail>https://raw.githubusercontent.com/joheos11/repository.kodispain/master/plugin.video.kodispaintv/icon.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/dsiI5upEdBs/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>FLUXUS TV</title>
+<link>nolink</link>
+<externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/fluxus.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/joheos11/repository.kodispain/master/plugin.video.kodispaintv/icon.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/dsiI5upEdBs/maxresdefault.jpg</fanart> 
 </item>
