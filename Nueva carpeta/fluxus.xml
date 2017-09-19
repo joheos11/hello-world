@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR blue]FLUXUS IPTV[/COLOR]</title>
+<title>[COLOR blue]FLUXUS IPTV[/COLOR] </title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
 <thumbnail>http://i.imgur.com/CvQCnwZ.png</thumbnail>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR violet]FLUXUS CINEMA[/COLOR]</title>
+<title>[COLOR violet]FLUXUS CINEMA[/COLOR] </title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</externallink>
 <thumbnail>http://i.imgur.com/YwZsGFd.png</thumbnail>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]FLUXUS FAITH[/COLOR]</title>
+<title>[COLOR yellow]FLUXUS FAITH[/COLOR] </title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/faith.m3u</externallink>
 <thumbnail>http://i.imgur.com/K4a3EoW.png</thumbnail>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR pink]FLUXUS LUST[/COLOR]</title>
+<title>[COLOR pink]FLUXUS LUST[/COLOR] </title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/xxx.m3u</externallink>
 <thumbnail>http://i.imgur.com/1DgSezF.png</thumbnail>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[COLOR orange]FLUXUS RADIO[/COLOR]</title>
+<title>[COLOR orange]FLUXUS RADIO[/COLOR] </title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/radio.m3u</externallink>
 <thumbnail>http://i.imgur.com/NKYFL5D.png</thumbnail>
