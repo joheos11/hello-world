@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channels_info>
+  <title>[COLOR red]KodiSpainTV[/COLOR]</title>
+  <genre>ALL</genre>
+  <description>Kodispain Todo En Uno</description>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <credits>https://t.me/kodispain (joheos11)</credits>
+</channels_info>
+
+<channel>
+  <name>[COLOR red]                                       Actualizado:[/COLOR][COLOR yellow] SEPTIEMBRE[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://archive.org/download/kodispain/kodispain.mp4</externallink>
+</channel>
+ 
+<channel>
+  <name>[COLOR white]• [/COLOR][COLOR cornflowerblue]DOCUMENTALES[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TODOS%20LOS%20CANALES.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white]• [/COLOR][COLOR darkorchid]CINE[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/MUSICALES.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white]• [/COLOR][COLOR gold]SERIES[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/WEBS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white]• [/COLOR][COLOR coral]DEPORTES[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/LISTASIPTV.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white]• [/COLOR][COLOR darkcyan]TELEVISION[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart> 
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/DEPORTES.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white]• [/COLOR][COLOR darkorange]MUSICA[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TRAILERS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white]• [/COLOR][COLOR darkolivegreen]MANTENIMIENTO[/COLOR]</name>
+  <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
+  <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TRAILERS.xml</externallink>
+</channel>
+
+</channels>
