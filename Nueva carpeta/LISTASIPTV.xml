@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>m3uliste.pw</title>
+<title>GENERADOR DE IPTV DIARIOS: M3ULISTE</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -17,7 +17,7 @@
 </regex>
 </item>
 
-<item>
+item>
 <title>GENERADOR DE IPTV DIARIOS</title>
 <link>nolink</link>
 <externallink>https://pastebin.com/raw/1cbn0edf</externallink>
@@ -28,7 +28,7 @@
 <item>
 <title>FLUXUS TV</title>
 <link>nolink</link>
-<externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/fluxus.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/fluxus.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/joheos11/repository.kodispain/master/plugin.video.kodispaintv/icon.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/dsiI5upEdBs/maxresdefault.jpg</fanart> 
 </item>
