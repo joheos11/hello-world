@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<channel>
-<name>[COLOR blue]FLUXUS IPTV[/COLOR]</name>
+<item>
+<title>[COLOR white]FLUXUS IPTV[/COLOR]</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
 <thumbnail>http://i.imgur.com/CvQCnwZ.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
-</channel>
+</item>
 
-<channel>
-<name>[COLOR violet]FLUXUS CINEMA[/COLOR]</name>
+<item>
+<title>[COLOR blue]FLUXUS CINEMA[/COLOR]</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</externallink>
 <thumbnail>http://i.imgur.com/YwZsGFd.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
-</channel>
+</item>
 
-<channel>
-<name>[COLOR yellow]FLUXUS FAITH[/COLOR]</name>
+<item>
+<title>[COLOR yellow]FLUXUS FAITH[/COLOR]</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/faith.m3u</externallink>
 <thumbnail>http://i.imgur.com/K4a3EoW.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
-</channel>
+</item>
 
-<channel>
-<name>[COLOR pink]FLUXUS LUST[/COLOR]</name>
+<item>
+<title>[COLOR pink]FLUXUS LUST[/COLOR]</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/xxx.m3u</externallink>
 <thumbnail>http://i.imgur.com/1DgSezF.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
-</channel>
+</item>
 
-<channel>
-<name>[COLOR orange]FLUXUS RADIO[/COLOR]</name>
+<item>
+<title>[COLOR orange]FLUXUS RADIO[/COLOR]</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/radio.m3u</externallink>
 <thumbnail>http://i.imgur.com/NKYFL5D.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
-</channel>
+</item>
