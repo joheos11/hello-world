@@ -12,9 +12,9 @@
 ]]></listrepeat>
 <expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
 <page>http://www.m3uliste.pw/</page>
-<referer></referer>
-<cookieJar></cookieJar>
 </regex>
+<thumbnail>https://raw.githubusercontent.com/joheos11/repository.kodispain/master/plugin.video.kodispaintv/icon.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/dsiI5upEdBs/maxresdefault.jpg</fanart> 
 </item>
 
 item>
