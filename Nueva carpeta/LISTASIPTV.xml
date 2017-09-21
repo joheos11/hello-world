@@ -13,7 +13,7 @@
 <expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
 <page>http://www.m3uliste.pw/</page>
 </regex>
-<thumbnail>https://raw.githubusercontent.com/joheos11/repository.kodispain/master/plugin.video.kodispaintv/icon.png</thumbnail>
+<thumbnail>https://www.m3uliste.pw/files/.logo-lw-scaled.jpg.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/dsiI5upEdBs/maxresdefault.jpg</fanart> 
 </item>
 
