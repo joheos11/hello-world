@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>GENERADOR DE IPTV DIARIOS: M3ULISTE</title>
+<title>GENERADOR DE LISTAS IPTV DIARIAS, SI UNA NO FUNCIONA PRUEBA OTRA ;) M3ULISTE</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -18,7 +18,7 @@
 </item>
 
 item>
-<title>GENERADOR DE IPTV DIARIOS</title>
+<title>GENERADOR DE LISTAS IPTV DIARIAS, SI UNA NO FUNCIONA PRUEBA OTRA ;)</title>
 <link>nolink</link>
 <externallink>https://pastebin.com/raw/1cbn0edf</externallink>
 <thumbnail>https://raw.githubusercontent.com/joheos11/repository.kodispain/master/plugin.video.kodispaintv/icon.png</thumbnail>
