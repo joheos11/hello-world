@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<items>
-
 <item>
 <title>Trailers In Spanish</title>
 <link>$doregex[makelist]</link>
 <regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param2]</title>
-                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&order=default</link>
-                        <thumbnail>https://pbs.twimg.com/profile_images/552092989485355008/5iuVo5m9.png</thumbnail>
-         ]]></listrepeat>
-            <expres>\s?.href="\/playlist\?list=(.*?)">(.*?)<\/</expres>
-            <page>https://www.youtube.com/user/TrailersInSpanish/playlists</page>
-            <cookieJar></cookieJar>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&order=default</link>
+]]></listrepeat>
+<expres>\s?.href="\/playlist\?list=(.*?)">(.*?)<\/</expres>
+<page>https://www.youtube.com/user/TrailersInSpanish/playlists</page>
+<thumbnail>https://yt3.ggpht.com/-Py8I53d1UNA/AAAAAAAAAAI/AAAAAAAAAAA/bY-0BVwZJyY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/9TxG9tjIU2HCjAnspTHGBUZdweNZFTJr0sZa5DZRvEHNZhkBnH7kDBIvhL_3AOxBj8c3Nqwx72c=w2560-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
 </regex>
 </item>
             
@@ -22,16 +20,14 @@
 <title>Cinesa</title>
 <link>$doregex[makelist]</link>
 <regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[makelist.param2]</title>
-                        <link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&order=default</link>
-                        <thumbnail>https://pbs.twimg.com/profile_images/552092989485355008/5iuVo5m9.png</thumbnail>
-         ]]></listrepeat>
-            <expres>\s?.href="\/playlist\?list=(.*?)">(.*?)<\/</expres>
-            <page>https://www.youtube.com/user/CINESATUBE/playlists</page>
-            <cookieJar></cookieJar>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=[makelist.param1]&order=default</link>
+]]></listrepeat>
+<expres>\s?.href="\/playlist\?list=(.*?)">(.*?)<\/</expres>
+<page>https://www.youtube.com/user/CINESATUBE/playlists</page>
+<thumbnail>http://www.audiovisual451.com/wp-content/uploads/cinesa-logo.jpg</thumbnail>
+<fanart>https://static.savings-united.com/medium/36252/file_name/codigo_promocional_Cinesa.jpg</fanart>
 </regex>
 </item>
-            
-</items>
