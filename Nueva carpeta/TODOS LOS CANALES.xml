@@ -109,9 +109,11 @@
 </item>
 	
 <item>
-<title>FOX LIFE*</title>
-<sportsdevil>http://edge1.telesport.pw/live/foxlife/index.m3u8</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/nacionales/foxcrime.php</referer>
+<title>FOX LIFE</title>
+<sportsdevil>http://vergol.com/live/foxlife.php</sportsdevil>
+<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
+<thumbnail>https://s1.postimg.org/9ouny4hd7j/FOXCR.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
@@ -228,15 +230,33 @@
 </item>
 	
 <item>
-<title>NAT GEO WILD*</title>
-<sportsdevil>http://vertelevisor.com/live/nationalwild.php</sportsdevil>                                        
-<referer>http://cinestrenostv.tv/canales/documentales/natgeowill.php</referer>			
+<title>NAT GEO WILD</title>
+<sportsdevil>http://vergol.com/live/nationalwild.php</sportsdevil>                                        
+<referer>http://www.vercanalestv.com/ver-nat-geo-wild-online-y-gratis-por-internet-las-24h-gratis-en-vivo/</referer>
+<thumbnail>https://s1.postimg.org/6z0naqzuxr/NATGW.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>		
 </item>
 	
 <item>
 <title>ODISEA*</title>
 <sportsdevil>http://www.playerhd1.pw/embed.php?c=105143&width=650&height=400&autostart=true</sportsdevil>                                     
 <referer>http://sport.gblackstreaming.com/channel/074_odisea/1.html</referer>
+</item>
+
+<item>
+<title>GH REVOLUTION T18</title>
+<link>http://mediasetooyala-lh.akamaihd.net/i/reality_model4_geo_delivery@458346/index_2500_av-b.m3u8</link>
+<!-- <sportsdevil>http://vercanalestv.com/tv/nacionales/gran-hermano.html</sportsdevil> -->
+<!-- <referer>http://www.vercanalestv.com/ver-gran-hermano-18-revolution-online-gratis-en-directo-por-internet/</referer> -->
+<thumbnail>https://s1.postimg.org/zltrtbcpb/GH18_REV.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
+</item>
+
+<item>
+<title>OT 24H</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Txf3j9H332o</link>
+<thumbnail>https://s1.postimg.org/3fvaskfl7z/OT24_H.jpg</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
@@ -303,6 +323,14 @@
 		<referer>http://www.liveonlinetv247.info/</referer>
 		<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 	</regex>
+</item>
+
+<item>
+<title>BEIN LALIGA</title>
+<sportsdevil>http://vergol.com/live3/beinliga.php</sportsdevil>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</referer>
+<thumbnail>https://s1.postimg.org/4p65awr3hb/BELIGA.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
@@ -420,16 +448,22 @@
 <item>
 <title>NOVA</title>
 <link>http://a3live-lh.akamaihd.net/i/geonova_1@379404/master.m3u8</link>
+<thumbnail>https://s1.postimg.org/5txm70vc0v/NOVA.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
 <title>NEOX</title>
 <link>http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8</link>
+<thumbnail>https://s1.postimg.org/578x01p7m7/NEOX.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
 <title>A3SERIES</title>
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+<thumbnail>https://s1.postimg.org/1ex277v83j/ATRESS.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
@@ -450,6 +484,8 @@
 <item>
 <title>MEGA</title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
+<thumbnail>https://s1.postimg.org/5ar8zxyy6n/MEGA.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
@@ -526,28 +562,38 @@
 </item>
 
 <item>
-<title>TELEMADRID*</title>
-<link>http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8</link>
+<title>TELEMADRID</title>
+<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
+<thumbnail>https://s1.postimg.org/1ansvrw2kv/tvam.jpg</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 
 <item>
-<title>LAOTRA*</title>
-<link>http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8?SAT_TOTAL</link>
+<title>LAOTRA</title>
+<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
+<thumbnail>https://s1.postimg.org/9ope7v54bz/La_Otra.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
 	
 <item>
-<title>CASTILLA LA MANCHA*</title>
-<link>http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8</link>
+<title>CASTILLA LA MANCHA</title>
+<link>http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8</link>
+<thumbnail>https://s1.postimg.org/8jhaqi93fz/cmm.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
 <title>CASTILLA Y LEON</title>
 <link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
+<thumbnail>https://s1.postimg.org/9bp2gykkan/cyltv.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
 		
 <item>
 <title>13TV</title>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
+<thumbnail>https://s1.postimg.org/1rf9lwjq73/13_TV.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 
 <item>
@@ -560,11 +606,15 @@
 <item>
 <title>8 TV</title>
 <link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
+<thumbnail>https://s1.postimg.org/104oaomna7/8tv.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
 
 <item>
 <title>CANAL EXTREMADURA</title>
-<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8</link>
+<link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
+<thumbnail>https://s1.postimg.org/96az3de02n/EXTRE.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
 	
 <item>
@@ -600,12 +650,7 @@
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
 <thumbnail>https://s1.postimg.org/5hskdjld4f/TVC.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
-</item>	
-	
-<!-- <item>
-<title>7RM</title>
-<link></link>
-</item>	 -->
+</item>
 	
 <item>
 <title>ARAGON TV</title>
@@ -623,7 +668,8 @@
 	
 <item>
 <title>TV CANARIA</title>
-<link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1256186728_b480000_sles.m3u8</link>
+<!-- <link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8</link> -->
+<link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
 <thumbnail>https://s1.postimg.org/5tvzchw9kf/TVCANARIA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
