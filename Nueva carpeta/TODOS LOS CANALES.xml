@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>GH REVOLUTION T18</title>
+<link>http://mediasetooyala-lh.akamaihd.net/i/reality_model4_geo_delivery@458346/index_2500_av-b.m3u8</link>
+<!-- <sportsdevil>http://vercanalestv.com/tv/nacionales/gran-hermano.html</sportsdevil> -->
+<!-- <referer>http://www.vercanalestv.com/ver-gran-hermano-18-revolution-online-gratis-en-directo-por-internet/</referer> -->
+<thumbnail>https://s1.postimg.org/zltrtbcpb/GH18_REV.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
+</item>
+
+<item>
+<title>OT 24H</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Txf3j9H332o</link>
+<thumbnail>https://s1.postimg.org/3fvaskfl7z/OT24_H.jpg</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
+</item>
+
+<item>
 <title>#0*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -19,7 +35,7 @@
 <item>
 <title>MOVISTAR CINE Ñ*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-plus-dcine-n-online-gratis-en-directo/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -27,7 +43,7 @@
 <item>
 <title>MOVISTAR COMEDIA*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-plus-comedia-en-directo-y-online-las-24h/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>		
 </item>
@@ -35,7 +51,7 @@
 <item>
 <title>MOVISTAR DCINE*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-plus-dcine-en-vivo-y-online-por-internet-las-24h/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -51,7 +67,7 @@
 <item>
 <title>MOVISTAR SERIES*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-plus-series-online-y-en-vivo-gratis/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -59,7 +75,7 @@
 <item>
 <title>MOVISTAR SERIES XTRA*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-plus-series-xtra-online-gratis-en-directo/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
@@ -98,26 +114,32 @@
 	
 <item>
 <title>A&amp;E*</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=anadetelefive&width=650&height=400&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/documental/aande</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
 	
 <item>
-<title>CALLE 13</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/nacionales/calle13.php</referer>	
+<title>CALLE 13*</title>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>		
 </item>
 	
 <item>
 <title>COMEDY CENTRAL*</title>
-<sportsdevil>http://tumarcador.xyz/verdirectotv/8</sportsdevil>
-<referer>http://www.vertelevisor.com/tv/nacionales/paramount-comedy.html</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
 	
 <item>
 <title>COSMO*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/canal-cosmopolitan-en-vivo-y-directo-series-cosmo/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
@@ -125,7 +147,7 @@
 <item>
 <title>DARK*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-dark-online-y-gratis-24h-por-internet/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
@@ -149,7 +171,7 @@
 <item>
 <title>HOLLYWOOD*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-hollywood-en-vivo-y-directo-las-24-horas-online/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -158,7 +180,7 @@
 <title>MTV</title>
 <sportsdevil>http://vergol.com/live/mtv.php</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-mtv-espana-online-en-directo-gratis-24h-por-internet/</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://s1.postimg.org/68nwsy25yn/MTV.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
@@ -177,7 +199,7 @@
 <item>
 <title>SYFY*</title>
 <sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-syfy-hd-online-en-castellano-en-directo-gratis-24h-por-internet/</referer>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -194,7 +216,7 @@
 <title>TNT</title>
 <sportsdevil>http://vergol.com/live/tnt.php</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-tnt-online-en-directo-gratis-24h-por-internet/</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://s1.postimg.org/1pyn4584rj/TNT.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
@@ -206,67 +228,64 @@
 	
 <item>
 <title>VIAJAR*</title>
-<sportsdevil>http://livesports.pw/embed.php?file=viajar&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/documental/viajar</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
-<title>CANAL COCINA</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/documental/cocina</referer>
+<title>CANAL COCINA*</title>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
 <title>DECASA*</title>
-<sportsdevil>http://livesports.pw/embed.php?file=casa&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/documental/casa</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
 <title>TOROS TV*</title>
-<sportsdevil>http://livesports.pw/embed.php?file=torotv&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/deporte/toro</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
 <title>CAZA Y PESCA</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=cazaypesca&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/documental/cazaypesca</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
-<title>IBERALIA</title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-	<regex>
-		<name>get-id</name>
-		<expres>source: '(.*?)'</expres>
-		<page>http://tumarcador.xyz/ver/2.php</page>
-		<referer>http://vercanalestv.com/tv/documentales/iberalia.html</referer>
-	</regex>
+<title>IBERALIA*</title>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
 <title>CRIMEN E INVESTIGACION*</title>
-<sportsdevil>http://vertelevisor.com/live/canalcrimen.php</sportsdevil>
-<referer>http://vertelevisor.com/tv/documentales/crimen-investigacion.html</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
-<title>DISCOVERY CHANNEL</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=discoverychannel&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/documental/discoverychannel</referer>
+<title>DISCOVERY CHANNEL*</title>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
-<title>HISTORIA</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=historiaesp&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/documental/historia</referer>
+<title>HISTORIA*</title>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
-<title>NATIONAL GEOGRAPHIC</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=natgeo&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/documental/natgeoembed.php</referer>
+<title>NATIONAL GEOGRAPHIC*</title>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
@@ -279,24 +298,8 @@
 	
 <item>
 <title>ODISEA*</title>
-<sportsdevil>http://www.playerhd1.pw/embed.php?c=105143&width=650&height=400&autostart=true</sportsdevil>                                     
-<referer>http://sport.gblackstreaming.com/channel/074_odisea/1.html</referer>
-</item>
-
-<item>
-<title>GH REVOLUTION T18</title>
-<link>http://mediasetooyala-lh.akamaihd.net/i/reality_model4_geo_delivery@458346/index_2500_av-b.m3u8</link>
-<!-- <sportsdevil>http://vercanalestv.com/tv/nacionales/gran-hermano.html</sportsdevil> -->
-<!-- <referer>http://www.vercanalestv.com/ver-gran-hermano-18-revolution-online-gratis-en-directo-por-internet/</referer> -->
-<thumbnail>https://s1.postimg.org/zltrtbcpb/GH18_REV.png</thumbnail>
-<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
-</item>
-
-<item>
-<title>OT 24H</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Txf3j9H332o</link>
-<thumbnail>https://s1.postimg.org/3fvaskfl7z/OT24_H.jpg</thumbnail>
-<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
+<sportsdevil></sportsdevil>                                     
+<referer></referer>
 </item>
 	
 <item>
@@ -325,36 +328,30 @@
 	
 <item>
 <title>MOVISTAR MOTOGP*</title>
-<sportsdevil>http://www.dinostream.pw/embed.php?c=105717&width=650&height=400&autostart=true</sportsdevil>
-<referer>http://cinestrenostv.tv/canales/envivo/motogp.html</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
 <title>MOVISTAR DEPORTES 1*</title>
-<link>http://livesports.pw/embed.php?file=deporteone&width=650&height=397&autostart=true</link>
-<referer>http://telefivegb.com/canales/deporte/deporte1</referer>
+<link></link>
+<referer></referer>
 </item>
 	
 <item>
 <title>MOVISTAR DEPORTES 2*</title>
-<link>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397&autostart=true</link>
-<referer>http://telefivegb.com/canales/deporte/deporte2</referer>
+<link></link>
+<referer></referer>
 </item>
 	
 <item>
 <title>MOVISTAR GOLF*</title>
-<link>$doregex[get_id]|User-Agent=iPad</link>
-	<regex>
-		<name>get_id</name>
-		<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-		<page>http://www.liveonlinetv247.info/embed/golfchannel.php</page>
-		<referer>http://www.liveonlinetv247.info/</referer>
-		<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-	</regex>
+<link></link>
+<referer></referer>
 </item>
 	
 <item>
-<title>LaLigatv*</title>
+<title>LALIGATV (SIN SONIDO)</title>
 <link>$doregex[get_id]|User-Agent=iPad</link>
 	<regex>
 		<name>get_id</name>
@@ -386,44 +383,40 @@
 </item>
 	
 <item>
-<title>EUROSPORT 1</title>
-<sportsdevil>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/deporte/eurosport</referer>
+<title>EUROSPORT 1*</title>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
 <title>EUROSPORT 2*</title>
-<sportsdevil>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/deporte/eurosport2</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
 <title>GOL*</title>
-<sportsdevil>http://livesports.pw/embed.php?file=goltvesp&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/deporte/goltv</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
-<title>TELEDEPORTE</title>
-<sportsdevil>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://telefivegb.com/canales/deporte/teledeporte</referer>
+<title>TELEDEPORTE*</title>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
 <title>R.MADRID TV</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<thumbnail>https://s1.postimg.org/36tapjsqjz/REALM.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
 <title>BARCA TV*</title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-	<regex>
-		<name>get-id</name>
-		<expres>source: '(.*?)'</expres>
-		<page>http://tumarcador.xyz/ver/2.php</page>
-		<referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer>
-		<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-	</regex>
+<sportsdevil></sportsdevil>
+<referer></referer>
 </item>
 	
 <item>
@@ -514,8 +507,8 @@
 	
 <item>
 <title>TEN*</title>
-<sportsdevil>http://vergol.com/live/ten.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-ten-online-y-gratis-las-24-en-directo/</referer>
+<sportsdevil></sportsdevil>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -549,7 +542,7 @@
 	
 <item>
 <title>INTERECONOMIA*</title>
-<link>http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8</link>
+<link></link>
 </item>
 	
 <item>
@@ -564,12 +557,12 @@
 	
 <item>
 <title>BOING*</title>
-<link>http://edge15.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8</link>
+<link></link>
 </item>
 	
 <item>
 <title>CLAN TVE*</title>
-<link>http://edge15.livesports.pw/live/verclan12857b2fcd59414ea6/index.m3u8</link>
+<link></link>
 </item>
 	
 <item>
@@ -584,13 +577,7 @@
 
 <item>
 <title>DISNEY XD*</title>
-<link>$doregex[extrae-canal]</link>
-	<regex>
-		<name>extrae-canal</name>
-		<expres>source: '(.*?)'</expres>
-		<page></page>
-		<referer>http://vercanalestv.com/tv/documentales/canal-bio.html</referer>
-	</regex>
+<link></link>
 </item>
 
 <item>
@@ -600,17 +587,17 @@
 
 <item>
 <title>NICK JR*</title>
-<link>http://edge15.livesports.pw/live/vernickjre17b0e7d64317bee/index.m3u8 </link>
+<link></link>
 </item>
 
 <item>
 <title>CANAL PANDA*</title>
-<link>http://edge15.livesports.pw/live/verpanda09f8f91b6bfd8e414/index.m3u8 </link>
+<link></link>
 </item>
 
 <item>
 <title>BABY TV*</title>
-<link>http://edge15.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8</link>
+<link></link>
 </item>
 
 <item>
