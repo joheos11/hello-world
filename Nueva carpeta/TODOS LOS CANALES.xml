@@ -21,7 +21,7 @@
 <thumbnail>https://s1.postimg.org/3uw6p5ssnz/logo-cero-desk.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR ACCION</title>
 <sportsdevil>http://vergol.com/live/plusaccion.php</sportsdevil>
@@ -29,15 +29,15 @@
 <thumbnail>https://s1.postimg.org/1ig3ywqqb3/CPACCI.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>MOVISTAR CINE Ñ*</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-plus-dcine-n-online-gratis-en-directo/</referer>
-<thumbnail></thumbnail>
+<title>MOVISTAR CINE Ñ</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=dicneesp&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/tv-spain/ver-canal-plus-dc-n-online-gratis-y-en-vivo-por-internet/</referer>
+<thumbnail>https://s1.postimg.org/7kpm8i9zbz/DCESP.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR COMEDIA</title>
 <sportsdevil>http://vergol.com/live/comedia.php</sportsdevil>
@@ -45,7 +45,7 @@
 <thumbnail>https://s1.postimg.org/4y0qkjtx2n/CPCOME.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>		
 </item>
-	
+
 <item>
 <title>MOVISTAR DCINE</title>
 <sportsdevil>http://vergol.com/live/dcine.php</sportsdevil>
@@ -53,7 +53,7 @@
 <thumbnail>https://s1.postimg.org/330x63mx5r/CPCOLE.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR ESTRENOS</title>
 <sportsdevil>http://vergol.com/live/plusestrenos.php</sportsdevil>
@@ -61,7 +61,7 @@
 <thumbnail>https://s1.postimg.org/3p3rf7ca67/MV1.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR SERIES</title>
 <sportsdevil>http://vergol.com/live1/plusseries.php</sportsdevil>
@@ -69,23 +69,23 @@
 <thumbnail>https://s1.postimg.org/10anc7lc4f/CPSER.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>MOVISTAR SERIES XTRA (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-plus-series-xtra-online-gratis-en-directo/</referer>
-<thumbnail></thumbnail>
+<title>MOVISTAR SERIES XTRA</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=seriesxtra&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/tv-spain/ver-canal-movistar-series-xtra-online-gratis-vivo/</referer>
+<thumbnail>https://s1.postimg.org/8hcwe4d0fz/MV2.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
-	
+
 <item>
-<title>MOVISTAR XTRA (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://verplusonline.com/ver-canal-movistar-xtra-online-gratis-vivo/</referer>
-<thumbnail></thumbnail>
+<title>MOVISTAR XTRA</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=mxtra&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/tv-spain/ver-canal-movistar-xtra-online-gratis-vivo/</referer>
+<thumbnail>https://s1.postimg.org/17ekh8s5fz/CPXTRA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
-	
+
 <item>
 <title>AMC</title>
 <sportsdevil>http://vergol.com/live/amc.php</sportsdevil>
@@ -93,7 +93,7 @@
 <thumbnail>https://s1.postimg.org/7hxhdgqwm7/AMC.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>		
 </item>
-	
+
 <item>
 <title>AXN</title>
 <sportsdevil>http://vergol.com/live/axn.php</sportsdevil>
@@ -101,55 +101,55 @@
 <thumbnail>https://s1.postimg.org/36bfk3pgbz/AXN.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
-	
+
 <item>
 <title>AXN WHITE*</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-axn-white-en-directo-gratis-por-internet/</referer>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=axnwahit&width=650&height=397&autostart=true</sportsdevil> -->
+<!-- <referer>http://cinestrenostv.tv/canales/envivo/axnwhite.htm</referer> -->
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
-	
+
 <item>
 <title>A&amp;E</title>
-<sportsdevil>http://vergol.com/live2/ae.php</sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-bio-online-y-directo-gratis-las-24h/</referer>
+<sportsdevil>http://livesports.pw/embed2.php?file=anadetelefive&width=650&height=400&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/tv-spain/ver-canal-bio-channel-en-directo-y-online-gratis/</referer>
 <thumbnail>https://s1.postimg.org/7f6huviw8v/BIOGRA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
-	
+
 <item>
-<title>CALLE 13 (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-calle-13-online-y-gratis-por-internet-las-24h/</referer>
-<thumbnail></thumbnail>
+<title>CALLE 13</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=calltrees&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/tv-spain/ver-calle-13-online-y-gratis-por-internet-las-24h/</referer>
+<thumbnail>https://s1.postimg.org/6nofca6ivz/CL13.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>		
 </item>
-	
+
 <item>
-<title>COMEDY CENTRAL (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-paramount-comedy-online-y-en-directo-las-24h/</referer>
-<thumbnail></thumbnail>
+<title>COMEDY CENTRAL</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=comedycentral&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/tv-spain/ver-paramount-comedy-online-y-en-directo-las-24h/</referer>
+<thumbnail>https://s1.postimg.org/4e6oqm5rpr/PCM.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
-	
+
 <item>
 <title>COSMO</title>
-<link>http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/20.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git</link></link>
-<referer>http://www.vercanalestv.com/canal-cosmopolitan-en-vivo-y-directo-series-cosmo/</referer>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/cosmo.html</referer>
 <thumbnail>https://s1.postimg.org/7f10bgg5b3/COSMO.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
-	
+
 <item>
-<title>DARK (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-dark-online-y-gratis-24h-por-internet/</referer>
-<thumbnail></thumbnail>
+<title>DARK</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/dark.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/dark.html</referer>
+<thumbnail>https://s1.postimg.org/6h8or3a1db/DARK.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>	
 </item>
-	
+
 <item>
 <title>FOX</title>
 <sportsdevil>http://vergol.com/live/fox.php</sportsdevil>
@@ -157,7 +157,7 @@
 <thumbnail>https://s1.postimg.org/2skb31g9dr/FOXGE.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>FOX LIFE</title>
 <sportsdevil>http://vergol.com/live/foxlife.php</sportsdevil>
@@ -165,15 +165,15 @@
 <thumbnail>https://s1.postimg.org/9ouny4hd7j/FOXCR.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>HOLLYWOOD (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-hollywood-en-vivo-y-directo-las-24-horas-online/</referer>
-<thumbnail></thumbnail>
+<title>HOLLYWOOD</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/holliwood.html</referer>
+<thumbnail>https://s1.postimg.org/4y6wx0v2lr/HOLLYW.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MTV</title>
 <sportsdevil>http://vergol.com/live/mtv.php</sportsdevil>
@@ -181,39 +181,23 @@
 <thumbnail>https://s1.postimg.org/68nwsy25yn/MTV.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>NON STOP PEOPLE*</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
-</item>
-	
-<item>
-<title>SUNDANCE CHANNEL*</title>
-<sportsdevil></sportsdevil>
+<title>SYFY</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=sysfesp&width=650&height=397&autostart=true</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-syfy-hd-online-en-castellano-en-directo-gratis-24h-por-internet/</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://s1.postimg.org/9tj8l1coyn/SCI-_FI.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>SYFY (livesports.pw)</title>
-<sportsdevil>http://livesports.pw/embedn.php?file=sysfesp&width=650&height=397&autostart=true</sportsdevil>
-<referer>http://www.vercanalestv.com/</referer>
-<thumbnail></thumbnail>
+<title>TCM</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=tcmesp&width=650&height=397&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/tv-spain/ver-canal-tcm-online-gratis-y-en-vivo-por-internet/</referer>
+<thumbnail>https://s1.postimg.org/90tlp4efq7/TCM.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
-<item>
-<title>TCM (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-tcm-online-gratis-24h-por-internet/</referer>
-<thumbnail></thumbnail>
-<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
-</item>
-	
+
 <item>
 <title>TNT</title>
 <sportsdevil>http://vergol.com/live/tnt.php</sportsdevil>
@@ -221,7 +205,7 @@
 <thumbnail>https://s1.postimg.org/1pyn4584rj/TNT.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MEZZO*</title>
 <link></link>
@@ -229,15 +213,15 @@
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>VIAJAR (livesports.pw) </title>
+<title>VIAJAR (livesports.pw)</title>
 <sportsdevil></sportsdevil>
 <referer>http://www.vercanalestv.com/ver-canal-viajar-online-en-directo-24h-y-gratis-por-internet/</referer>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>CANAL COCINA</title>
 <sportsdevil>http://vergol.com/live/cocina.php</sportsdevil>
@@ -245,14 +229,14 @@
 <thumbnail>https://s1.postimg.org/6t9vbv83nj/CACOC.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>DECASA</title>
 <link>http://flus0.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8</link>
 <thumbnail>https://s1.postimg.org/7rzf5n7p9r/DECASA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>TOROS TV</title>
 <sportsdevil>http://vergol.com/live1/toros.php</sportsdevil>
@@ -260,23 +244,23 @@
 <thumbnail>https://s1.postimg.org/8ur31gyjcf/CFERIA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>CAZA Y PESCA (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-caza-y-pesca-online-y-gratis-las-24h-en-vivo/</referer>
-<thumbnail></thumbnail>
+<title>CAZA Y PESCA</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=cazaypesca&width=650&height=400&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/deporte/ver-caza-y-pesca-online-y-gratis-las-24h-en-vivo/</referer>
+<thumbnail>https://s1.postimg.org/3s1dtnaqrz/Caza-y-_Pesca-_Logotipo-2016.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>IBERALIA*</title>
 <sportsdevil></sportsdevil>
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>https://s1.postimg.org/5wa9edmufz/IBERAL.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>CRIMEN E INVESTIGACION</title>
 <sportsdevil>http://vergol.com/live/canalcrimen.php</sportsdevil>
@@ -284,7 +268,7 @@
 <thumbnail>https://s1.postimg.org/1laqvf4nxb/CYM.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>DISCOVERY CHANNEL</title>
 <sportsdevil>http://vergol.com/live/discovery-channel.php</sportsdevil>
@@ -300,7 +284,7 @@
 <thumbnail>https://s1.postimg.org/4dgziqsye7/DCRMAX.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>HISTORIA</title>
 <sportsdevil>http://vergol.com/live/historia.php</sportsdevil>
@@ -308,7 +292,7 @@
 <thumbnail>https://s1.postimg.org/2m5vta5ldr/HIST.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>NATIONAL GEOGRAPHIC</title>
 <sportsdevil>http://vergol.com/live/nationalgeo.php</sportsdevil>
@@ -316,7 +300,7 @@
 <thumbnail>https://s1.postimg.org/8dqoqm38kf/NATGEO.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>NAT GEO WILD</title>
 <sportsdevil>http://vergol.com/live/nationalwild.php</sportsdevil>                                        
@@ -331,7 +315,7 @@
 <thumbnail>https://s1.postimg.org/4er6ix5jqn/ODISEA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR FUTBOL*</title>
 <sportsdevil></sportsdevil>                                     
@@ -339,7 +323,7 @@
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR PARTIDAZO*</title>
 <sportsdevil></sportsdevil>
@@ -347,7 +331,7 @@
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR F1</title>
 <sportsdevil>http://vergol.com/live3/formula1.php</sportsdevil>
@@ -355,7 +339,7 @@
 <thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR MOTOGP</title>
 <sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
@@ -363,23 +347,23 @@
 <thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR DEPORTES 1*</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-en-directo-y-online-gratis/</referer>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=deporteone&width=650&height=397&autostart=true</sportsdevil> -->
+<!-- <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-en-directo-y-online-gratis/</referer> -->
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR DEPORTES 2*</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=deportedos&width=650&height=397&autostart=true</sportsdevil> -->
+<!-- <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer> -->
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MOVISTAR GOLF</title>
 <sportsdevil>http://vergol.com/live1/golf.php</sportsdevil>
@@ -387,17 +371,13 @@
 <thumbnail>https://s1.postimg.org/3gng9ewnof/GOLF.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>LALIGATV (SIN SONIDO)</title>
-<link>$doregex[get_id]|User-Agent=iPad</link>
-	<regex>
-		<name>get_id</name>
-		<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-		<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
-		<referer>http://www.liveonlinetv247.info/</referer>
-		<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-	</regex>
+<title>LALIGATV</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=barliga&width=650&height=400&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/deporte/ver-el-canal-laligatv-en-vivo/</referer>
+<thumbnail>https://s1.postimg.org/2nqgriy90f/LIGBA1.png</thumbnail>
+<fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 
 <item>
@@ -407,23 +387,23 @@
 <thumbnail>https://s1.postimg.org/4p65awr3hb/BELIGA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>beIN SPORTS*</title>
-<link></link>
-<referer></referer>
-<thumbnail></thumbnail>
+<title>beIN SPORTS</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=beinsport&width=650&height=400&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/deporte/ver-bein-sport-espana-en-directo-gratis-y-en-vivo-por-internet-opcion-2/</referer>
+<thumbnail>https://s1.postimg.org/2q92gjwpof/CHUEFA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
 	
 <item>
-<title>beIN MAX 1*</title>
-<link></link>
-<referer></referer>
-<thumbnail></thumbnail>
+<title>beIN SPORTS Ñ</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=beinsportn&width=650&height=400&autostart=true</sportsdevil>
+<referer>http://www.vertelevisor.com/bein-n-sport-latino-en-vivo-online-gratis/</referer>
+<thumbnail>https://s1.postimg.org/8j7n0r6u4v/bein_sports_spanish_c.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>EUROSPORT 1</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports.php</sportsdevil>
@@ -431,7 +411,7 @@
 <thumbnail>https://s1.postimg.org/2k9llilrgf/ESP.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>EUROSPORT 2*</title>
 <sportsdevil></sportsdevil>
@@ -439,7 +419,7 @@
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>GOL*</title>
 <sportsdevil></sportsdevil>
@@ -447,7 +427,7 @@
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>TELEDEPORTE</title>
 <sportsdevil>http://vergol.com/live1/teledeporte.php</sportsdevil>
@@ -455,22 +435,22 @@
 <thumbnail>https://s1.postimg.org/2hle88ybmn/TDEP.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>R.MADRID TV</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 <thumbnail>https://s1.postimg.org/36tapjsqjz/REALM.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>BARCA TV</title>
-<sportsdevil>http://vergol.com/live3/barca.php</sportsdevil>
+<sportsdevil>http://livesports.pw/embed2.php?file=barca&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-barca-tv-en-directo-y-online/</referer>
 <thumbnail>https://s1.postimg.org/3wmywyl1rj/BARNA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>LA 1</title>
 <sportsdevil>http://vergol.com/live/tve1.php</sportsdevil>
@@ -478,22 +458,22 @@
 <thumbnail>https://s1.postimg.org/7ldba895e7/TVE.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>LA 2 (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-tve-2-en-directo-documentales-la-2-online-gratis-en-vivo/</referer>
+<title>LA 2</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=tvdostelefive&width=650&height=400&autostart=true</sportsdevil>
+<referer>http://telefivegb.com/tv-spain/ver-tv-2-espana-online-y-en-directo-las-24h-en-vivio-y-gratis/</referer>
 <thumbnail>https://s1.postimg.org/48ulfv75qn/LA2.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>ANTENA 3</title>
 <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
 <thumbnail>https://s1.postimg.org/6qvvfgr01r/image.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>CUATRO</title>
 <sportsdevil>http://vergol.com/live1/cuatro.php</sportsdevil>
@@ -501,7 +481,7 @@
 <thumbnail>https://s1.postimg.org/4o4lb23bfz/image.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>TELECINCO</title>
 <sportsdevil>http://vergol.com/live1/telecinco.php</sportsdevil>
@@ -509,14 +489,14 @@
 <thumbnail>https://s1.postimg.org/1ltlutx2m7/image.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>LA SEXTA</title>
 <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
 <thumbnail>https://s1.postimg.org/56vn8c8b5b/SEXTA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>DIVINITY</title>
 <sportsdevil>http://vergol.com/live/divinity.php</sportsdevil>
@@ -524,7 +504,7 @@
 <thumbnail>https://s1.postimg.org/2qamyqmnkf/DIVINI.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>ENERGY</title>
 <sportsdevil>http://vergol.com/live/energy.php</sportsdevil>
@@ -532,7 +512,7 @@
 <thumbnail>https://s1.postimg.org/2loqui720f/ENERGY.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>FDF</title>
 <sportsdevil>http://vergol.com/live/fdf.php</sportsdevil>
@@ -540,44 +520,44 @@
 <thumbnail>https://s1.postimg.org/1hb9wr8tin/FDFIC.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>NOVA</title>
 <link>http://a3live-lh.akamaihd.net/i/geonova_1@379404/master.m3u8</link>
 <thumbnail>https://s1.postimg.org/5txm70vc0v/NOVA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>NEOX</title>
 <link>http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8</link>
 <thumbnail>https://s1.postimg.org/578x01p7m7/NEOX.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>A3SERIES</title>
 <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
 <thumbnail>https://s1.postimg.org/1ex277v83j/ATRESS.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>TEN (livesports.pw)</title>
-<sportsdevil></sportsdevil>
+<title>TEN</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=ten&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-ten-online-en-directo/</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://s1.postimg.org/5pu9mez37z/TEN.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>DKISS (livesports.pw)</title>
-<sportsdevil></sportsdevil>
+<title>DKISS</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=dkiss&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://www.vercanalestv.com/ver-dkiss-tv-en-directo-online-gratis-por-internet/</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://s1.postimg.org/7kst31jyof/DKISS.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>BE MAD</title>
 <sportsdevil>http://vergol.com/live/bemad.php</sportsdevil>
@@ -585,7 +565,7 @@
 <thumbnail>https://s1.postimg.org/5up4ozjgen/BEMAD.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>MEGA</title>
 <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
@@ -594,50 +574,45 @@
 </item>
 
 <item>
-<title>PARAMOUNT CHANNEL*</title>
-<sportsdevil></sportsdevil>
+<title>PARAMOUNT CHANNEL</title>
+<link>http://www.radiosargentina.com.ar/php/tvm3u.php?id=PAES0008</link>
 <referer>http://www.vercanalestv.com/ver-paramount-channel-en-directo-y-gratis-online-las-24h-en-vivo</referer>
-<thumbnail></thumbnail>
+<thumbnail>https://s1.postimg.org/2bj2gnvoyn/PARCH.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>24H</title>
 <link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8</link>
 <thumbnail>https://s1.postimg.org/4wzm5cmv3j/24_H.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>INTERECONOMIA</title>
 <link>https://streaming-fr04.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w922262599_b700000.m3u8</link>
 <thumbnail>https://s1.postimg.org/3xt7ib8i1r/INTECO.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>BOING (livesports.pw)</title>
-<sportsdevil></sportsdevil>
-<referer>http://www.vercanalestv.com/ver-boing-online-gratis-por-internet/</referer>
-<thumbnail></thumbnail>
+<title>BOING</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/boing.php</sportsdevil>
+<referer>http://cinestrenostv.tv/canales/envivo/boing.html</referer>
+<thumbnail>https://s1.postimg.org/6zcs9uov0f/BOING.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>CLAN TVE*</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
-<title>DISNEY CHANNEL</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedn.php?file=disneychannel&width=650&height=397</page>
-<cookieJar></cookieJar>
-</regex>
+<title>DISNEY CHANNEL*</title>
+<link>https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8.</link>
 <thumbnail></thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -704,14 +679,14 @@
 <thumbnail>https://s1.postimg.org/8jhaqi93fz/cmm.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>CASTILLA Y LEON</title>
 <link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
 <thumbnail>https://s1.postimg.org/9bp2gykkan/cyltv.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
-		
+
 <item>
 <title>13TV</title>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
@@ -739,7 +714,7 @@
 <thumbnail>https://s1.postimg.org/96az3de02n/EXTRE.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
-	
+
 <item>
 <title>CANAL SUR ANDALUCIA</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[getLiveVideoId]</link>
@@ -760,14 +735,14 @@
 <thumbnail>https://s1.postimg.org/4gi45voyxb/TVG.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>ETB</title>
 <link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
 <thumbnail>https://s1.postimg.org/4sl9hiux0f/ETB.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
-	
+
 <item>
 <title>TV3</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
@@ -788,10 +763,9 @@
 <thumbnail>https://s1.postimg.org/4u6tt7znwf/TPAlogo.jpg</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
-	
+
 <item>
 <title>TV CANARIA</title>
-<!-- <link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8</link> -->
 <link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
 <thumbnail>https://s1.postimg.org/5tvzchw9kf/TVCANARIA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
