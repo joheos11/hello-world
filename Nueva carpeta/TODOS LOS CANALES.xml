@@ -3,6 +3,7 @@
 <item>
 <title>GH REVOLUTION T18</title>
 <link>http://mediasetooyala-lh.akamaihd.net/i/reality_model4_geo_delivery@458346/index_2500_av-b.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/zltrtbcpb/GH18_REV.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -10,6 +11,7 @@
 <item>
 <title>OT 24H</title>
 <link>plugin://plugin.video.youtube/play/?video_id=Txf3j9H332o</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/3fvaskfl7z/OT24_H.jpg</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
