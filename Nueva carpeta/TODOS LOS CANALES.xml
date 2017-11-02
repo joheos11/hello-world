@@ -791,7 +791,7 @@
 </item>	
 
 <item>
-<title>TV CANARIA*</title>
+<title>TV CANARIA</title>
 <link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/5tvzchw9kf/TVCANARIA.png</thumbnail>
