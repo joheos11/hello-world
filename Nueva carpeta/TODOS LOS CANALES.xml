@@ -672,6 +672,7 @@
 <item>
 <title>TELEMADRID</title>
 <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/1ansvrw2kv/tvam.jpg</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -679,6 +680,7 @@
 <item>
 <title>LAOTRA</title>
 <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/9ope7v54bz/La_Otra.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
@@ -686,6 +688,7 @@
 <item>
 <title>CASTILLA LA MANCHA</title>
 <link>http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/8jhaqi93fz/cmm.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -693,6 +696,7 @@
 <item>
 <title>CASTILLA Y LEON</title>
 <link>http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/9bp2gykkan/cyltv.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
@@ -700,6 +704,7 @@
 <item>
 <title>13TV</title>
 <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/1rf9lwjq73/13_TV.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -707,6 +712,7 @@
 <item>
 <title>3/24</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/53z12rao67/3_24.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -714,6 +720,7 @@
 <item>
 <title>8 TV</title>
 <link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/104oaomna7/8tv.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
@@ -721,6 +728,7 @@
 <item>
 <title>CANAL EXTREMADURA</title>
 <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/96az3de02n/EXTRE.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
@@ -735,6 +743,7 @@
 		<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</agent>
 		<cookieJar></cookieJar>
 	</regex>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/14sqxaqxfj/ANTV.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -742,6 +751,7 @@
 <item>
 <title>GALICIA TV</title>
 <link>http://media3.crtvg.es/live/_definst_/tvge_2/playlist.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/4gi45voyxb/TVG.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -749,6 +759,7 @@
 <item>
 <title>ETB</title>
 <link>http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/4sl9hiux0f/ETB.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -756,6 +767,7 @@
 <item>
 <title>TV3</title>
 <link>http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/5hskdjld4f/TVC.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
@@ -763,6 +775,7 @@
 <item>
 <title>ARAGON TV</title>
 <link>http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/93x8uabxhb/ARAGON.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
@@ -770,6 +783,7 @@
 <item>
 <title>TPA</title>
 <link>http://195.10.10.206/rtpa/tv.webm?GKID=0a23b69cb1c611e7a9ec00163ea2c744</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/4u6tt7znwf/TPAlogo.jpg</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>	
@@ -777,6 +791,7 @@
 <item>
 <title>TV CANARIA*</title>
 <link>rtmp://streaming2.mad.idec.net/rtvcnet playpath=rtvcnet.drb.360plr.stream swfUrl=http://www.rtvc.es/swf/flowplayer.commercial-3.2.18.swf live=1 pageUrl=http://www.rtvc.es/television/directo.aspx?ref=tm</link>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/5tvzchw9kf/TVCANARIA.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
 </item>
