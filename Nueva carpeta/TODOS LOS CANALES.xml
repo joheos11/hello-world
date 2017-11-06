@@ -635,8 +635,8 @@
 </item>
 
 <item>
-<title>CLAN TVE*</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=clantv&width=650&height=400&autostart=true</sportsdevil>
+<title>CLAN TVE</title>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=clantv&width=650&height=400&autostart=true</sportsdevil> -->
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/362qaq54nz/CLANTV.png</thumbnail>
 <fanart>https://s1.postimg.org/4ah1vkpmvj/TVFANART.jpg</fanart>
