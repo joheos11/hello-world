@@ -503,7 +503,7 @@
 
 <item>
 <title>TELECINCO</title>
-<sportsdevil>http://livesports.pw/embed2.php?file=telecinco&width=650&height=400&autostart=true</sportsdevil>
+<!-- <sportsdevil>http://livesports.pw/embed2.php?file=telecinco&width=650&height=400&autostart=true</sportsdevil> -->
 <sportsdevil>http://vergol.com/live1/telecinco.php</sportsdevil>
 <referer>http://vercanalestv.com/tv/multicanal/telecinco.html</referer>
 <thumbnail>https://s1.postimg.org/1ltlutx2m7/image.png</thumbnail>
