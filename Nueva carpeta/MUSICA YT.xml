@@ -2,14 +2,16 @@
 
 <item>
 <title>ARTISTA</title>
-<link>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Artistas.xml</link>
+<link>nolink</link>
+<externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Artistas.xml</externallink>
 <thumbnail>https://s33.postimg.org/j95x4kj2z/logoyt.png</thumbnail>
 <fanart>https://s33.postimg.org/uy9wsjhrf/fanartyt.jpg</fanart>
 </item>
 
 <item>
 <title>GENERO</title>
-<link>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Genero.xml</link>
+<link>nolink</link>
+<externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Genero.xml</externallink>
 <thumbnail>https://s33.postimg.org/j95x4kj2z/logoyt.png</thumbnail>
 <fanart>https://s33.postimg.org/uy9wsjhrf/fanartyt.jpg</fanart>
 </item>
