@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>Aerosmith</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=p9o03zV2z6o</link>
+</item>
+
+<item>
 <title>Alejandro Sanz</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yqU5osbwvL4</link>
 </item>
@@ -16,6 +21,21 @@
 </item>
 
 <item>
+<title>Camila</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XNJf12qU6rc</link>
+</item>
+
+<item>
+<title>Camilo Sesto</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cmq3LbB7fwI</link>
+</item>
+
+<item>
+<title>Chayanne</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cOlLBpPN6-c</link>
+</item>
+
+<item>
 <title>Celine Dione</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YZf4mpC4FHI</link>
 </item>
@@ -26,13 +46,43 @@
 </item>
 
 <item>
-<title>Ed Sheeran - The Best Songs 2017</title>
+<title>David Bisbal</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Gw--tm_GXZk</link>
+</item>
+
+<item>
+<title>Ed Sheeran</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q3ssEga4LxU</link>
+</item>
+
+<item>
+<title>Green Day</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DXx4mrQ8JO4</link>
+</item>
+
+<item>
+<title>Guns N' Roses</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I6EI3g_mLNg</link>
+</item>
+
+<item>
+<title>Ha-Ash</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TKDMLzlZDlU</link>
 </item>
 
 <item>
 <title>James Blunt</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MXwTKVBRbcI</link>
+</item>
+
+<item>
+<title>Jesse amp&; Joy</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zh4vpTwqb7s</link>
+</item>
+
+<item>
+<title>Jose Luis Perales</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8bxVC6HAT1E</link>
 </item>
 
 <item>
@@ -56,6 +106,16 @@
 </item>
 
 <item>
+<title>Nirvana</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yJ5GiGssae4</link>
+</item>
+
+<item>
+<title>Pimpinela</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rEdlnx-UQ3s</link>
+</item>
+
+<item>
 <title>Ricardo Montaner</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PbG7Gg87m1Y</link>
 </item>
@@ -63,6 +123,16 @@
 <item>
 <title>Ricky Martin</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Pw3IrJpeuDU</link>
+</item>
+
+<item>
+<title>Rocio Durcal</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=njOq10ui2TA</link>
+</item>
+
+<item>
+<title>Rolling Stones</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vc_hQw1pBd8</link>
 </item>
 
 <item>
@@ -74,3 +144,9 @@
 <title>Shakira</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I_kiz4UGoQc</link>
 </item>
+
+<item>
+<title>The Beatles</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VCRB7sS85Pc</link>
+</item>
+
