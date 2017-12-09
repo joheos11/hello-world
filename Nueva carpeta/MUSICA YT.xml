@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>ARTISTA</title>
+<title>ARTISTAS</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Artistas.xml</externallink>
 <thumbnail>https://s33.postimg.org/j95x4kj2z/logoyt.png</thumbnail>
@@ -9,9 +9,25 @@
 </item>
 
 <item>
-<title>GENERO</title>
+<title>GENEROS</title>
 <link>nolink</link>
 <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Genero.xml</externallink>
+<thumbnail>https://s33.postimg.org/j95x4kj2z/logoyt.png</thumbnail>
+<fanart>https://s33.postimg.org/uy9wsjhrf/fanartyt.jpg</fanart>
+</item>
+
+<item>
+<title>CONCIERTOS</title>
+<link>nolink</link>
+<externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Conciertos.xml</externallink>
+<thumbnail>https://s33.postimg.org/j95x4kj2z/logoyt.png</thumbnail>
+<fanart>https://s33.postimg.org/uy9wsjhrf/fanartyt.jpg</fanart>
+</item>
+
+<item>
+<title>VIDEOS MUSICALES</title>
+<link>nolink</link>
+<externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Videos%20Musicales.xml</externallink>
 <thumbnail>https://s33.postimg.org/j95x4kj2z/logoyt.png</thumbnail>
 <fanart>https://s33.postimg.org/uy9wsjhrf/fanartyt.jpg</fanart>
 </item>
