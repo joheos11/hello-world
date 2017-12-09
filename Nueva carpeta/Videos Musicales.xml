@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>60s</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+]]></listrepeat>
+<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+<page>https://www.youtube.com/watch?v=7KuHm-Y6TG4&amp;list=PL2Ac2dDW4fYu1KgNgxdplXQ8eoWUvox4D</page>
+</regex>
+</item>
+
+<item>
+<title>70s</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+]]></listrepeat>
+<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+<page>https://www.youtube.com/watch?v=7KuHm-Y6TG4&amp;list=PL2Ac2dDW4fYt1nr9laZQR7HDDU60T8TFP</page>
+</regex>
+</item>
+
+<item>
+<title>80s</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+]]></listrepeat>
+<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+<page>https://www.youtube.com/watch?v=7KuHm-Y6TG4&amp;list=PL2Ac2dDW4fYtJNfhcH9sCWFA3rJDAYaOz</page>
+</regex>
+</item>
+
+<item>
+<title>90s</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+]]></listrepeat>
+<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+<page>https://www.youtube.com/watch?v=7KuHm-Y6TG4&amp;list=PL2Ac2dDW4fYtK3Gs76UqD71KvynIilPQc</page>
+</regex>
+</item>
+
+<item>
+<title>00s</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+]]></listrepeat>
+<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+<page>https://www.youtube.com/watch?v=7KuHm-Y6TG4&amp;list=PL2Ac2dDW4fYvC1WXMFUFgSjQ4jyUcExma</page>
+</regex>
+</item>
