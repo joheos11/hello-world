@@ -69,10 +69,9 @@
 <title>[COLOR yellow]+[/COLOR][COLOR white]—[makelist.param1][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-<fanart>http://www.csroaquimera.org/wp-content/uploads/2014/07/lengua_de_signos_espanola.jpg</fanart>
 ]]></listrepeat>
 <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=yXQViqx6GMY&list=PLyn1b86Ad_a6KrXeRMyX2LMSgStSeQUgb</page>
+<page>https://www.youtube.com/watch?v=yXQViqx6GMY&amp;list=PLyn1b86Ad_a6KrXeRMyX2LMSgStSeQUgb</page>
 </regex>
 <thumbnail>https://i.ytimg.com/vi/y6mDOq5NLHk/hqdefault.jpg</thumbnail>
 </item>
