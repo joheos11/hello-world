@@ -59,3 +59,20 @@
 <title>Villancicos Infantil con letra Vol.2</title>
 <utube>7UZ0ISdU7Dw</utube>
 </item>
+
+<item>
+<title>[COLOR white]Mejores canciones: Música navideña[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR yellow]+[/COLOR][COLOR white]—[makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<fanart>http://www.csroaquimera.org/wp-content/uploads/2014/07/lengua_de_signos_espanola.jpg</fanart>
+]]></listrepeat>
+<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+<page>https://www.youtube.com/watch?v=yXQViqx6GMY&list=PLyn1b86Ad_a6KrXeRMyX2LMSgStSeQUgb</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/y6mDOq5NLHk/hqdefault.jpg</thumbnail>
+</item>
