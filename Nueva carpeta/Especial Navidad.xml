@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>1 Hora de Villancicos Flamencos - Raya Real - Villancicos Rocieros</title>
+<utube>NoEvM_IqB_g</utube>
+</item>
+
+<item>
 <title>2 Horas de Música Instrumental Navideña y Relajante</title>
 <utube>3cmYyuZNzvs</utube>
 </item>
@@ -26,8 +31,28 @@
 </item>
 
 <item>
-<title>Canciones de Navidad en Inglés</title>
+<title>Canciones de Navidad en Inglés Vol.I</title>
 <utube>QWZuW0bzFpI</utube>
+</item>
+
+<item>
+<title>Canciones de Navidad en Inglés Vol.II</title>
+<utube>Mmgh-6MlTo4</utube>
+</item>
+
+<item>
+<title>CantaJuegos Navideño</title>
+<utube>B4YR6ApeAVA</utube>
+</item>
+
+<item>
+<title>Celine Dion Christmas Album</title>
+<utube>jr_tMY0JZIU</utube>
+</item>
+
+<item>
+<title>Disney Sing Along Songs - Very Merry Christmas Songs 1988</title>
+<utube>XmHaqYDwn7o</utube>
 </item>
 
 <item>
@@ -46,8 +71,23 @@
 </item>
 
 <item>
+<title>LUIS MIGUEL - NAVIDADES (ALBUM COMPLETO 2006)</title>
+<utube>BBJ5XvCfM8g</utube>
+</item>
+
+<item>
+<title>Michael Buble: Mejor Colección De Canciones Navideñas</title>
+<utube>Pk3R4yDUiPc</utube>
+</item>
+
+<item>
 <title>Parchis - Villancicos</title>
 <utube>MH6MoXST3FQ</utube>
+</item>
+
+<item>
+<title>Rock Christmas Songs</title>
+<utube>la9TozvetRE</utube>
 </item>
 
 <item>
@@ -61,17 +101,6 @@
 </item>
 
 <item>
-<title>[COLOR white]Mejores canciones: Música navideña[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR yellow]+[/COLOR][COLOR white]—[makelist.param1][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=yXQViqx6GMY&amp;list=PLyn1b86Ad_a6KrXeRMyX2LMSgStSeQUgb</page>
-</regex>
-<thumbnail>https://i.ytimg.com/vi/y6mDOq5NLHk/hqdefault.jpg</thumbnail>
+<title>Villancicos Tradicionales de Navidad en Español</title>
+<utube>h2jI4WBrdLc</utube>
 </item>
