@@ -17,7 +17,14 @@
   <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
   <externallink>https://archive.org/download/kodispain/kodispain.mp4</externallink>
 </channel>
- 
+
+ <channel>
+  <name>[COLOR white]*** [/COLOR][COLOR white][COLOR ForestGreen]ESPECIAL NAVIDAD[/COLOR] [COLOR red](YT)[/COLOR] [COLOR white]*** [/COLOR]</name>
+  <thumbnail>https://s14.postimg.org/wx5mdmsup/logonavidad.jpg</thumbnail>
+  <fanart>https://s14.postimg.org/vi41p49tt/fanartnavidad.jpg</fanart>
+  <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Especial%20Navidad.xml</externallink>
+</channel> 
+
 <channel>
   <name>[COLOR red]• [/COLOR][COLOR white]CANALES DE ESPAÑA[/COLOR]</name>
   <thumbnail>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/icon.png?raw=true</thumbnail>
