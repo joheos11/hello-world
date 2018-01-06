@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>..</title>
+<title>*..*</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -19,4 +19,4 @@
 <fanart></fanart>
 </item>
 
-<!-- https://www.youtube.com/playlist?list=PL7APDTDqzVMjJbrXoPGOdKEp-dkptTwzI -->
+<!-- https://www.youtube.com/watch?v=1jWuYk0-68I&list=PL7APDTDqzVMjJbrXoPGOdKEp-dkptTwzI -->
