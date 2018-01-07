@@ -12,14 +12,14 @@
 </channels_info>
 
 <channel>
-  <name>[COLOR red]                                       Actualizado:[/COLOR][COLOR yellow] ENERO[/COLOR]</name>
+  <name>[COLOR red]Actualizado:[/COLOR][COLOR yellow] ENERO[/COLOR]</name>
   <thumbnail>https://s18.postimg.org/eku48dc2h/actualizado.jpg</thumbnail>
   <fanart>https://github.com/joheos11/repository.kodispain/blob/master/plugin.video.kodispaintv/fanart.jpg?raw=true</fanart>
   <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/easter_egg</externallink>
 </channel>
   
 <channel>
-  <name>[COLOR white]     ***************     [/COLOR][COLOR orange][B] SIN BARRERAS [/B][/COLOR] [COLOR white]     ***************     [/COLOR]</name>
+  <name>[COLOR white]* [/COLOR][COLOR orange][B]SIN BARRERAS[/B][/COLOR]</name>
   <thumbnail>https://s31.postimg.org/h4i8e9vsb/icon.jpg</thumbnail>
   <fanart>https://s31.postimg.org/m4folwogr/fanart.jpg</fanart>
   <externallink>http://bit.ly/2DB9ha1</externallink>
@@ -75,7 +75,7 @@
 </channel>
   
 <channel>
-  <name>[COLOR white]     ***************     [/COLOR][COLOR forestgreen][B]ESPECIAL NAVIDAD[/B][/COLOR] [COLOR white]     ***************     [/COLOR]</name>
+  <name>[COLOR white]* [/COLOR][COLOR forestgreen][B]ESPECIAL NAVIDAD[/B][/COLOR]</name>
   <thumbnail>https://s14.postimg.org/wx5mdmsup/logonavidad.jpg</thumbnail>
   <fanart>https://s14.postimg.org/vi41p49tt/fanartnavidad.jpg</fanart>
   <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Especial%20Navidad.xml</externallink>
