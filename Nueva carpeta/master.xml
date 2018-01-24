@@ -74,11 +74,11 @@
   <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/TRAILERS.xml</externallink>
 </channel>
   
-<channel>
+<!-- <channel>
   <name>[COLOR white]* [/COLOR][COLOR forestgreen][B]ESPECIAL NAVIDAD[/B][/COLOR]</name>
   <thumbnail>https://s14.postimg.org/wx5mdmsup/logonavidad.jpg</thumbnail>
   <fanart>https://s14.postimg.org/vi41p49tt/fanartnavidad.jpg</fanart>
   <externallink>https://raw.githubusercontent.com/joheos11/hello-world/master/Nueva%20carpeta/Especial%20Navidad.xml</externallink>
-</channel>
-
+</channel> -->
+  
 </channels>
