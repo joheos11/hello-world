@@ -1,41 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][COLOR deepskyblue]FLUXUS IPTV[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
-<thumbnail>http://i.imgur.com/CvQCnwZ.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
-</item>
-
-<item>
-<title>[B][COLOR fuchsia]FLUXUS CINEMA[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/cinema.m3u</externallink>
-<thumbnail>http://i.imgur.com/YwZsGFd.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
-</item>
-
-<item>
-<title>[B][COLOR yellow]FLUXUS FAITH[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/faith.m3u</externallink>
-<thumbnail>http://i.imgur.com/K4a3EoW.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
-</item>
-
-<item>
-<title>[B][COLOR deeppink]FLUXUS LUST (+18)[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/xxx.m3u</externallink>
-<thumbnail>http://i.imgur.com/1DgSezF.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
-</item>
-
-<item>
-<title>[B][COLOR orange]FLUXUS RADIO[/COLOR][/B]</title>
-<link>nolink</link>
-<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/radio.m3u</externallink>
-<thumbnail>http://i.imgur.com/NKYFL5D.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
 </item>
